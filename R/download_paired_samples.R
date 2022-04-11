@@ -28,9 +28,13 @@ have_primary <- pdmr_table |>
   filter(`PDM Type` == "Patient/Originator Specimen") |>
   pull(`Patient ID`)
 
+have_pdx <- pdmr_table |>
+  filter(`PDM Type` == "PDX") |>
+  pull(`Patient ID`)
+
 
 pdmr_paired_primary <- pdmr_table |>
-  filter(`Patient ID` %in% have_primary)
+  filter(`Patient ID` %in% intersect(have_primary, have_pdx))
 
 
 if(!dir.exists(outdir)){
