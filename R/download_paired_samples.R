@@ -1,5 +1,6 @@
 library(tidyverse)
-
+library(foreach)
+library(doParallel)
 
 ####
 # Download rnaseq data (RSEM gene level) for all PDMR samples that have data available for the primary tumour
@@ -9,6 +10,9 @@ library(tidyverse)
 # variables ---------------------------------------------------------------
 outdir <- "data/raw"
 pdmr_table <- read_csv("data/clean/pdmr_sample_table_rnaseq.csv")
+cl <- 4
+
+registerDoParallel(4)
 
 # functions ---------------------------------------------------------------
 smoosh <- function(x){
@@ -33,8 +37,9 @@ if(!dir.exists(outdir)){
   dir.create(outdir, recursive = TRUE)
   }
 
-for(nme in pdmr_paired_primary$`RSEM(genes)`){
-  
+
+
+saved <- foreach(nme = pdmr_paired_primary$`RSEM(genes)`[1:5], .errorhandling = "remove") %dopar% {
   ## create a nice name for saving
   clean_nme <- nme |>
     basename() |>
@@ -47,12 +52,12 @@ for(nme in pdmr_paired_primary$`RSEM(genes)`){
     destfile = file.path(outdir, paste0(clean_nme, ".RSEM.genes.txt"))
   )
   
-  
-  # print(clean_nme)
-  
+  nme
 }
 
-x <- read_tsv(file.path(test, paste0(clean_nme, ".RSEM.genes.txt")))
-
-
-x
+## see if any files were missed
+difference <- setdiff(pdmr_paired_primary$`RSEM(genes)`, saved)
+if(length(difference) > 0){
+  write_lines(difference, file = "data/raw/paired_samples_missing.txt")
+}
+  
