@@ -25,16 +25,16 @@ smoosh <- function(x){
 
 # main --------------------------------------------------------------------
 have_primary <- pdmr_table |>
-  filter(`PDM Type` == "Patient/Originator Specimen") |>
-  pull(`Patient ID`)
+  dplyr::filter(`PDM Type` == "Patient/Originator Specimen") |>
+  dplyr::pull(`Patient ID`)
 
 have_pdx <- pdmr_table |>
-  filter(`PDM Type` == "PDX") |>
-  pull(`Patient ID`)
+  dplyr::filter(`PDM Type` == "PDX") |>
+  dplyr::pull(`Patient ID`)
 
 
 pdmr_paired_primary <- pdmr_table |>
-  filter(`Patient ID` %in% intersect(have_primary, have_pdx))
+  dplyr::filter(`Patient ID` %in% intersect(have_primary, have_pdx))
 
 
 if(!dir.exists(outdir)){

@@ -12,6 +12,7 @@
 # ----------------------
 
 # do some things
-module load R
+# module load R
+activate R41
 
 Rscript R/download_paired_samples.R
