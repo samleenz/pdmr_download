@@ -43,7 +43,7 @@ if(!dir.exists(outdir)){
 
 
 
-saved <- foreach(nme = pdmr_paired_primary$`RSEM(genes)`[1:5], .errorhandling = "remove") %dopar% {
+saved <- foreach(nme = pdmr_paired_primary$`RSEM(genes)`, .errorhandling = "remove") %dopar% {
   ## create a nice name for saving
   clean_nme <- nme |>
     basename() |>
