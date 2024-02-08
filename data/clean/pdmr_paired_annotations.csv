@@ -1,0 +1,1766 @@
+sample,Patient ID,Specimen ID,Sample ID,PDM Type,Passage,Disease BodyLocation,CTEP SDCDescription,CTEP SDCCode
+112475_105-R_ORIGINATOR,112475,105-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+114434_197-R_A35YC3,114434,197-R,A35YC3,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+114434_197-R_A36YC9,114434,197-R,A36YC9,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+114434_197-R_A37,114434,197-R,A37,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+114434_197-R_A38WG0JH1,114434,197-R,A38WG0JH1,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+114434_197-R_A38WG3J91,114434,197-R,A38WG3J91,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+114434_197-R_A38WG5,114434,197-R,A38WG5,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+114434_197-R_ORIGINATOR,114434,197-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+114868_125-R_FCWC50,114868,125-R,FCWC50,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+114868_125-R_FCWC69,114868,125-R,FCWC69,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+114868_125-R_FEWC21,114868,125-R,FEWC21,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+114868_125-R_FEWC31,114868,125-R,FEWC31,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+114868_125-R_ORIGINATOR,114868,125-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+116655_072-R_AK7,116655,072-R,AK7,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+116655_072-R_AK7A15E12,116655,072-R,AK7A15E12,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+116655_072-R_AK7A17,116655,072-R,AK7A17,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+116655_072-R_AK7A17CJ5,116655,072-R,AK7A17CJ5,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+116655_072-R_AK7A18,116655,072-R,AK7A18,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+116655_072-R_AK7A20,116655,072-R,AK7A20,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+116655_072-R_ORIGINATOR,116655,072-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+117519_064-T_ED0D46J42,117519,064-T,ED0D46J42,PDX,2,Genitourinary,"Prostate cancer, NOS",10036910
+117519_064-T_ED0D48,117519,064-T,ED0D48,PDX,1,Genitourinary,"Prostate cancer, NOS",10036910
+117519_064-T_ED1D49,117519,064-T,ED1D49,PDX,1,Genitourinary,"Prostate cancer, NOS",10036910
+117519_064-T_ED1D50YD8,117519,064-T,ED1D50YD8,PDX,2,Genitourinary,"Prostate cancer, NOS",10036910
+117519_064-T_ED1D51WF6,117519,064-T,ED1D51WF6,PDX,2,Genitourinary,"Prostate cancer, NOS",10036910
+117519_064-T_ED1D53YE1,117519,064-T,ED1D53YE1,PDX,2,Genitourinary,"Prostate cancer, NOS",10036910
+117519_064-T_ORIGINATOR,117519,064-T,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Prostate cancer, NOS",10036910
+119387_122-R_ORIGINATOR,119387,122-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+125672_216-R_ORIGINATOR,125672,216-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+126254_015-R_ORIGINATOR,126254,015-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+128128_338-R_ORIGINATOR,128128,338-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+128783_104-T_ORIGINATOR,128783,104-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+131542_069-R_ORIGINATOR,131542,069-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+135848_042-T_ORIGINATOR,135848,042-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+136153_299-R_ORIGINATOR,136153,299-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Serous endometrial adenocarcinoma,10033700
+137432_314-R_ORIGINATOR,137432,314-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+137432_314-R_QVPG14,137432,314-R,QVPG14,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+137432_314-R_QVPG17,137432,314-R,QVPG17,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+137432_314-R_QVPG17HF1,137432,314-R,QVPG17HF1,PDX,2,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+137432_314-R_QVPG20HQ2,137432,314-R,QVPG20HQ2,PDX,2,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+137432_314-R_QVPG22HE4,137432,314-R,QVPG22HE4,PDX,2,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+137432_314-R_QVQH72,137432,314-R,QVQH72,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+144555_231-T_ORIGINATOR,144555,231-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+144983_106-R_EA2T11,144983,106-R,EA2T11,PDX,1,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+144983_106-R_EA3,144983,106-R,EA3,PDX,0,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+144983_106-R_EA3QQ5TJ6,144983,106-R,EA3QQ5TJ6,PDX,2,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+144983_106-R_EA3QQ8TK9,144983,106-R,EA3QQ8TK9,PDX,2,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+144983_106-R_EA3QT0,144983,106-R,EA3QT0,PDX,1,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+144983_106-R_EA3QT0TV1,144983,106-R,EA3QT0TV1,PDX,2,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+144983_106-R_ORIGINATOR,144983,106-R,ORIGINATOR,Patient/Originator Specimen,-,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+146476_266-R_ORIGINATOR,146476,266-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+154431_089-R_ORIGINATOR,154431,089-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+155919_109-R_ORIGINATOR,155919,109-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+158883_120-T_JU6,158883,120-T,JU6,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+158883_120-T_JU6MB3,158883,120-T,JU6MB3,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+158883_120-T_JU6MB4NZ2UQ6,158883,120-T,JU6MB4NZ2UQ6,PDX,3,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+158883_120-T_JU6MB4NZ2UQ8Y33,158883,120-T,JU6MB4NZ2UQ8Y33,PDX,4,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+158883_120-T_JU8MB7,158883,120-T,JU8MB7,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+158883_120-T_ORIGINATOR,158883,120-T,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+161973_066-R_ORIGINATOR,161973,066-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+164165_088-R1_CWT,164165,088-R1,CWT,PDX,0,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+164165_088-R1_ORIGINATOR,164165,088-R1,ORIGINATOR,Patient/Originator Specimen,-,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+165257_294-R_F80,165257,294-R,F80,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+165257_294-R_F80KR9NV8,165257,294-R,F80KR9NV8,PDX,2,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+165257_294-R_F80KR9NV8QX2,165257,294-R,F80KR9NV8QX2,PDX,3,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+165257_294-R_F80KT0NQ7_RG-U43,165257,294-R,F80KT0NQ7_RG-U43,PDX,3,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+165257_294-R_F80KT2,165257,294-R,F80KT2,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+165257_294-R_F80KT2NK1QN2UY9XQ6,165257,294-R,F80KT2NK1QN2UY9XQ6,PDX,5,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+165257_294-R_ORIGINATOR,165257,294-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+165739_295-R_AM1,165739,295-R,AM1,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+165739_295-R_AM1I30,165739,295-R,AM1I30,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+165739_295-R_AM2,165739,295-R,AM2,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+165739_295-R_AM2I33,165739,295-R,AM2I33,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+165739_295-R_AM3IA7,165739,295-R,AM3IA7,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+165739_295-R_AM4IJ6,165739,295-R,AM4IJ6,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+165739_295-R_ORIGINATOR,165739,295-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+167148_078-R_ORIGINATOR,167148,078-R,ORIGINATOR,PDX,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+168753_222-R_ORIGINATOR,168753,222-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+168753_222-R_YEVA91CJ5,168753,222-R,YEVA91CJ5,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+168753_222-R_YEVA92CC3_RG-EC1,168753,222-R,YEVA92CC3_RG-EC1,PDX,3,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+168753_222-R_YEVA94,168753,222-R,YEVA94,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+168753_222-R_YEVA94_RG-G27,168753,222-R,YEVA94_RG-G27,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+168753_222-R_YWVC25F39,168753,222-R,YWVC25F39,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+171881_019-R_APVG40_RG-G15,171881,019-R,APVG40_RG-G15,PDX,2,Breast,Invasive breast carcinoma,10006190
+171881_019-R_APW-DS2,171881,019-R,APW-DS2,PDX,0,Breast,Invasive breast carcinoma,10006190
+171881_019-R_APWG05,171881,019-R,APWG05,PDX,1,Breast,Invasive breast carcinoma,10006190
+171881_019-R_APWG05PF7,171881,019-R,APWG05PF7,PDX,2,Breast,Invasive breast carcinoma,10006190
+171881_019-R_APYF68,171881,019-R,APYF68,PDX,1,Breast,Invasive breast carcinoma,10006190
+171881_019-R_ORIGINATOR,171881,019-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+172845_121-B_M770J02,172845,121-B,M770J02,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-B_M770J02J24JA5,172845,121-B,M770J02J24JA5,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-B_M770J02J32,172845,121-B,M770J02J32,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-B_M770J03J74,172845,121-B,M770J03J74,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-B_M770J05J48,172845,121-B,M770J05J48,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-T_M776,172845,121-T,M776,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-T_M776M1151,172845,121-T,M776M1151,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-T_M776M1152J66,172845,121-T,M776M1152J66,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-T_M776M1153J58,172845,121-T,M776M1153J58,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-T_M776M1154J15,172845,121-T,M776M1154J15,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_121-T_M776M1155J93,172845,121-T,M776M1155J93,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_142-T_M80,172845,142-T,M80,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_142-T_M80J07JA4,172845,142-T,M80J07JA4,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_142-T_M80J08,172845,142-T,M80J08,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_142-T_M80J08J61,172845,142-T,M80J08J61,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_142-T_M80J09J83,172845,142-T,M80J09J83,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_142-T_M80J09J86,172845,142-T,M80J09J86,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_288-R_J35,172845,288-R,J35,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_288-R_J37JE2,172845,288-R,J37JE2,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_288-R_J38JF0,172845,288-R,J38JF0,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_288-R_J38JF7,172845,288-R,J38JF7,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_288-R_J38K58,172845,288-R,J38K58,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_288-R_J38K61,172845,288-R,J38K61,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_288-R_J40JG7,172845,288-R,J40JG7,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_288-R_ORIGINATOR,172845,288-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+172845_288-R_ZAMJ2-2_M686,172845,288-R,ZAMJ2-2_M686,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+174125_134-R_ORIGINATOR,174125,134-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Cholangiocar.- intra/extrahepatic,10004669
+174316_266-R_AD7,174316,266-R,AD7,PDX,0,Skin,Squamous cell carcinoma - skin,10041834
+174316_266-R_AD7I12II7NB9WC6,174316,266-R,AD7I12II7NB9WC6,PDX,4,Skin,Squamous cell carcinoma - skin,10041834
+174316_266-R_AD7I12II8NC0,174316,266-R,AD7I12II8NC0,PDX,3,Skin,Squamous cell carcinoma - skin,10041834
+174316_266-R_AD7I14,174316,266-R,AD7I14,PDX,1,Skin,Squamous cell carcinoma - skin,10041834
+174316_266-R_AD8,174316,266-R,AD8,PDX,0,Skin,Squamous cell carcinoma - skin,10041834
+174316_266-R_AD8I91NB6E05,174316,266-R,AD8I91NB6E05,PDX,3,Skin,Squamous cell carcinoma - skin,10041834
+174316_266-R_ORIGINATOR,174316,266-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Squamous cell carcinoma - skin,10041834
+175126_011-R_ORIGINATOR,175126,011-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+175126_011-R_TCA,175126,011-R,TCA,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+175126_011-R_TCAPT4,175126,011-R,TCAPT4,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+175126_011-R_TCAPT6,175126,011-R,TCAPT6,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+175126_011-R_TCE,175126,011-R,TCE,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+175126_011-R_TCEPF2,175126,011-R,TCEPF2,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+175126_011-R_TCEPF3,175126,011-R,TCEPF3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+176374_079-R_ORIGINATOR,176374,079-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+176374_079-R_UPY,176374,079-R,UPY,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+176374_079-R_UPYP69,176374,079-R,UPYP69,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+176374_079-R_UPYP70_RG-VA6XN7,176374,079-R,UPYP70_RG-VA6XN7,PDX,3,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+176374_079-R_UPYP70_RG-VA7,176374,079-R,UPYP70_RG-VA7,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+176374_079-R_UQAQA1UT9,176374,079-R,UQAQA1UT9,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+176374_079-R_UQAQA6,176374,079-R,UQAQA6,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+182917_245-R_ORIGINATOR,182917,245-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+184893_071-T_ORIGINATOR,184893,071-T,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+185487_224-T_ORIGINATOR,185487,224-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+186277_243-T_ORIGINATOR,186277,243-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+188146_221-R_KGTPK8,188146,221-R,KGTPK8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+188146_221-R_KGTPL0,188146,221-R,KGTPL0,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+188146_221-R_KGV,188146,221-R,KGV,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+188146_221-R_KGVPL8,188146,221-R,KGVPL8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+188146_221-R_KGVPN2_RG-NC5,188146,221-R,KGVPN2_RG-NC5,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+188146_221-R_KGVPN5,188146,221-R,KGVPN5,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+188146_221-R_ORIGINATOR,188146,221-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+191243_178-R_ORIGINATOR,191243,178-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+192522_019-R_ORIGINATOR,192522,019-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+193399_133-R_ORIGINATOR,193399,133-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+193523_008-R_ORIGINATOR,193523,008-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Female reprod. system cancer, NOS",10016411
+193523_008-R_YN8,193523,008-R,YN8,PDX,0,Gynecologic,"Female reprod. system cancer, NOS",10016411
+193523_008-R_YN8W31,193523,008-R,YN8W31,PDX,1,Gynecologic,"Female reprod. system cancer, NOS",10016411
+193523_008-R_YN8W32WX3,193523,008-R,YN8W32WX3,PDX,2,Gynecologic,"Female reprod. system cancer, NOS",10016411
+193523_008-R_YN8W33,193523,008-R,YN8W33,PDX,1,Gynecologic,"Female reprod. system cancer, NOS",10016411
+193523_008-R_YN9,193523,008-R,YN9,PDX,0,Gynecologic,"Female reprod. system cancer, NOS",10016411
+193523_008-R_YN9AA2,193523,008-R,YN9AA2,PDX,1,Gynecologic,"Female reprod. system cancer, NOS",10016411
+193832_021-R_AL-JGF,193832,021-R,AL-JGF,PDX,0,Breast,Invasive breast carcinoma,10006190
+193832_021-R_AL-JGF_AL-WF0,193832,021-R,AL-JGF_AL-WF0,PDX,1,Breast,Invasive breast carcinoma,10006190
+193832_021-R_AL-JGF_AL-WF4,193832,021-R,AL-JGF_AL-WF4,PDX,1,Breast,Invasive breast carcinoma,10006190
+193832_021-R_AL-JGK,193832,021-R,AL-JGK,PDX,0,Breast,Invasive breast carcinoma,10006190
+193832_021-R_AL-JGK_AL-W50,193832,021-R,AL-JGK_AL-W50,PDX,1,Breast,Invasive breast carcinoma,10006190
+193832_021-R_AL-JGK_AL-W57,193832,021-R,AL-JGK_AL-W57,PDX,1,Breast,Invasive breast carcinoma,10006190
+193832_021-R_ORIGINATOR,193832,021-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+195496_121-R_NUG,195496,121-R,NUG,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+195496_121-R_NUH,195496,121-R,NUH,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+195496_121-R_NUKKF6_RG-QY2,195496,121-R,NUKKF6_RG-QY2,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+195496_121-R_NUKKF6_RG-QY3WU8XV5,195496,121-R,NUKKF6_RG-QY3WU8XV5,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+195496_121-R_NUKKF6_RG-QY3WV0,195496,121-R,NUKKF6_RG-QY3WV0,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+195496_121-R_ORIGINATOR,195496,121-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+197587_005-T_AUA,197587,005-T,AUA,PDX,0,Musculoskeletal,Synovial sarcoma,10042866
+197587_005-T_AUAA55F24,197587,005-T,AUAA55F24,PDX,2,Musculoskeletal,Synovial sarcoma,10042866
+197587_005-T_AUAA55F26,197587,005-T,AUAA55F26,PDX,2,Musculoskeletal,Synovial sarcoma,10042866
+197587_005-T_AUAA55F27J25,197587,005-T,AUAA55F27J25,PDX,3,Musculoskeletal,Synovial sarcoma,10042866
+197587_005-T_AUAA64,197587,005-T,AUAA64,PDX,1,Musculoskeletal,Synovial sarcoma,10042866
+197587_005-T_AUAA64M149,197587,005-T,AUAA64M149,PDX,2,Musculoskeletal,Synovial sarcoma,10042866
+197587_005-T_ORIGINATOR,197587,005-T,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Synovial sarcoma,10042866
+215974_263-R_ORIGINATOR,215974,263-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+216738_123-R_FEV,216738,123-R,FEV,PDX,1,Genitourinary,"Renal cell carcinoma, NOS",10038415
+216738_123-R_FEVF40,216738,123-R,FEVF40,PDX,1,Genitourinary,"Renal cell carcinoma, NOS",10038415
+216738_123-R_FEVF40GT4,216738,123-R,FEVF40GT4,PDX,2,Genitourinary,"Renal cell carcinoma, NOS",10038415
+216738_123-R_FEVF41H96,216738,123-R,FEVF41H96,PDX,2,Genitourinary,"Renal cell carcinoma, NOS",10038415
+216738_123-R_FGVDT7,216738,123-R,FGVDT7,PDX,1,Genitourinary,"Renal cell carcinoma, NOS",10038415
+216738_123-R_FGVDU5FW3_RG-HC7,216738,123-R,FGVDU5FW3_RG-HC7,PDX,3,Genitourinary,"Renal cell carcinoma, NOS",10038415
+216738_123-R_ORIGINATOR,216738,123-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Renal cell carcinoma, NOS",10038415
+217524_143-R2_ORIGINATOR,217524,143-R2,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+218243_119-R_AL-N97,218243,119-R,AL-N97,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+218243_119-R_AL-N97J26,218243,119-R,AL-N97J26,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+218243_119-R_AL-N97J26JK3,218243,119-R,AL-N97J26JK3,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+218243_119-R_AL-N97J27JX9,218243,119-R,AL-N97J27JX9,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+218243_119-R_AL-N97J30,218243,119-R,AL-N97J30,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+218243_119-R_AL-N99,218243,119-R,AL-N99,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+218243_119-R_ORIGINATOR,218243,119-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+221948_257-R_ORIGINATOR,221948,257-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Vulvar cancer, NOS",10047743
+222454_113-R_ORIGINATOR,222454,113-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,Transitional cell car. - uroth.,10044409
+223117_310-R_ORIGINATOR,223117,310-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+228754_122-R_ORIGINATOR,228754,122-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Uterine cancer, NOS",10046804
+233313_265-R_B90KAF,233313,265-R,B90KAF,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+233313_265-R_B90KAGN94,233313,265-R,B90KAGN94,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+233313_265-R_B90KAGN94JG7,233313,265-R,B90KAGN94JG7,PDX,3,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+233313_265-R_B90KAGN94JG9KG5,233313,265-R,B90KAGN94JG9KG5,PDX,4,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+233313_265-R_B90KAGN94_RG-PQ8U63,233313,265-R,B90KAGN94_RG-PQ8U63,PDX,4,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+233313_265-R_B90KAGN99,233313,265-R,B90KAGN99,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+233313_265-R_ORIGINATOR,233313,265-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+233499_124-R_ORIGINATOR,233499,124-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+235635_245-T_ORIGINATOR,235635,245-T,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Adenocarcinoma - cervix,10008224
+238488_219-R_ORIGINATOR,238488,219-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+242566_281-R_HH0,242566,281-R,HH0,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+242566_281-R_HH0E27,242566,281-R,HH0E27,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+242566_281-R_HH0E27F63,242566,281-R,HH0E27F63,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+242566_281-R_HH0E30F34G20,242566,281-R,HH0E30F34G20,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+242566_281-R_HH0E31,242566,281-R,HH0E31,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+242566_281-R_HH0E36F90,242566,281-R,HH0E36F90,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+242566_281-R_ORIGINATOR,242566,281-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+243952_196-R_A20,243952,196-R,A20,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+243952_196-R_A20M882,243952,196-R,A20M882,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+243952_196-R_A20M883,243952,196-R,A20M883,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+243952_196-R_A20M884M242,243952,196-R,A20M884M242,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+243952_196-R_A20M885,243952,196-R,A20M885,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+243952_196-R_A20M886M999,243952,196-R,A20M886M999,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+243952_196-R_ORIGINATOR,243952,196-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+244727_301-R_ORIGINATOR,244727,301-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+244727_301-R_Y05,244727,301-R,Y05,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+244727_301-R_Y05QK1_RG-NP5QT7,244727,301-R,Y05QK1_RG-NP5QT7,PDX,3,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+244727_301-R_Y05QK1_RG-NP5QT8UY8,244727,301-R,Y05QK1_RG-NP5QT8UY8,PDX,4,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+244727_301-R_Y05QK1_RG-NP5QT8UY8Y52,244727,301-R,Y05QK1_RG-NP5QT8UY8Y52,PDX,5,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+244727_301-R_Y05QK1_RG-NP5QT8UY8Y53AP8,244727,301-R,Y05QK1_RG-NP5QT8UY8Y53AP8,PDX,6,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+244727_301-R_Y05QK1_RG-NP5QT8UY8Y55,244727,301-R,Y05QK1_RG-NP5QT8UY8Y55,PDX,5,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+244774_204-R_ORIGINATOR,244774,204-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Vulvar cancer, NOS",10047743
+245127_232-R_KE6,245127,232-R,KE6,PDX,0,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+245127_232-R_KE6L72,245127,232-R,KE6L72,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+245127_232-R_KE6L72N45VG1,245127,232-R,KE6L72N45VG1,PDX,3,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+245127_232-R_KE6L74,245127,232-R,KE6L74,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+245127_232-R_KE8KY7_RG-LW5,245127,232-R,KE8KY7_RG-LW5,PDX,2,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+245127_232-R_ORIGINATOR,245127,232-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+245324_029-R_ORIGINATOR,245324,029-R,ORIGINATOR,PDX,-,Skin,Melanoma,10053571
+248138_237-R_ORIGINATOR,248138,237-R,ORIGINATOR,Patient/Originator Specimen,-,Endocrine and Neuroendocrine,Hurthle cell neoplasm (thyroid),10065861
+249533_200-R_ORIGINATOR,249533,200-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+249533_200-R_W8XA20A10F04J04,249533,200-R,W8XA20A10F04J04,PDX,4,Gynecologic,Ovarian epithelial cancer,10033159
+249533_200-R_W8XA20A13E82,249533,200-R,W8XA20A13E82,PDX,3,Gynecologic,Ovarian epithelial cancer,10033159
+249533_200-R_W8XA21A03E19,249533,200-R,W8XA21A03E19,PDX,3,Gynecologic,Ovarian epithelial cancer,10033159
+249533_200-R_YAJ,249533,200-R,YAJ,PDX,0,Gynecologic,Ovarian epithelial cancer,10033159
+249661_222-R_ORIGINATOR,249661,222-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+249662_076-R_GGV,249662,076-R,GGV,PDX,0,Gynecologic,Ovarian epithelial cancer,10033159
+249662_076-R_GGVP72NP4,249662,076-R,GGVP72NP4,PDX,2,Gynecologic,Ovarian epithelial cancer,10033159
+249662_076-R_GGVP72NP5U81,249662,076-R,GGVP72NP5U81,PDX,3,Gynecologic,Ovarian epithelial cancer,10033159
+249662_076-R_GGVP72NP5U85XP4,249662,076-R,GGVP72NP5U85XP4,PDX,4,Gynecologic,Ovarian epithelial cancer,10033159
+249662_076-R_GGVP72NP5U85XQ0C05,249662,076-R,GGVP72NP5U85XQ0C05,PDX,5,Gynecologic,Ovarian epithelial cancer,10033159
+249662_076-R_ORIGINATOR,249662,076-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+249823_099-T_ORIGINATOR,249823,099-T,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Ovarian cancer, NOS",10033272
+251568_266-R_ORIGINATOR,251568,266-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+251568_266-R_PAENF1PG3,251568,266-R,PAENF1PG3,PDX,1,Skin,Melanoma,10053571
+251568_266-R_PAENF2,251568,266-R,PAENF2,PDX,1,Skin,Melanoma,10053571
+251568_266-R_PAENF4,251568,266-R,PAENF4,PDX,1,Skin,Melanoma,10053571
+251568_266-R_PAENF8QN2,251568,266-R,PAENF8QN2,PDX,2,Skin,Melanoma,10053571
+251568_266-R_PAENF8QN3,251568,266-R,PAENF8QN3,PDX,2,Skin,Melanoma,10053571
+252517_233-R_GTE,252517,233-R,GTE,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+252517_233-R_GTEPF1,252517,233-R,GTEPF1,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+252517_233-R_GTEPF7,252517,233-R,GTEPF7,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+252517_233-R_GUA,252517,233-R,GUA,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+252517_233-R_GUAPT6,252517,233-R,GUAPT6,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+252517_233-R_GUAPT8,252517,233-R,GUAPT8,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+252517_233-R_ORIGINATOR,252517,233-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Carcinosarcoma of the uterus,10007508
+252836_082-R_ORIGINATOR,252836,082-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,"H & N squamous cell car., NOS",10060121
+252836_082-R_P64PJ3,252836,082-R,P64PJ3,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+252836_082-R_P66,252836,082-R,P66,PDX,0,Head and Neck,"H & N squamous cell car., NOS",10060121
+252836_082-R_P66PS4K36,252836,082-R,P66PS4K36,PDX,2,Head and Neck,"H & N squamous cell car., NOS",10060121
+252836_082-R_P66PS5_RG-M24,252836,082-R,P66PS5_RG-M24,PDX,2,Head and Neck,"H & N squamous cell car., NOS",10060121
+254851_301-R_ORIGINATOR,254851,301-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+254851_301-R_QPHH31,254851,301-R,QPHH31,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+254851_301-R_QPJ,254851,301-R,QPJ,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+254851_301-R_QPJGD0,254851,301-R,QPJGD0,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+254851_301-R_QPJGD3,254851,301-R,QPJGD3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+254851_301-R_QPKHH8,254851,301-R,QPKHH8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+255893_291-R_AC1N80,255893,291-R,AC1N80,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+255893_291-R_AG1,255893,291-R,AG1,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+255893_291-R_AG1T07,255893,291-R,AG1T07,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+255893_291-R_AG2,255893,291-R,AG2,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+255893_291-R_AG2A71F96,255893,291-R,AG2A71F96,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+255893_291-R_AG2A71G00,255893,291-R,AG2A71G00,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+255893_291-R_AHPA29,255893,291-R,AHPA29,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+255893_291-R_ORIGINATOR,255893,291-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+259778_044-R_ORIGINATOR,259778,044-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+259778_044-R_TVVAN2,259778,044-R,TVVAN2,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+259778_044-R_TWGA01,259778,044-R,TWGA01,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+259778_044-R_TWH,259778,044-R,TWH,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+259778_044-R_TWHPK9A92,259778,044-R,TWHPK9A92,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+259778_044-R_TWHPK9A92AQ8,259778,044-R,TWHPK9A92AQ8,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+259778_044-R_TWHPK9A94,259778,044-R,TWHPK9A94,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+261386_189-R_N69,261386,189-R,N69,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+261386_189-R_N69M989,261386,189-R,N69M989,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+261386_189-R_N69M990_RG-Q13,261386,189-R,N69M990_RG-Q13,PDX,3,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+261386_189-R_N70,261386,189-R,N70,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+261386_189-R_N70P00M37Y55,261386,189-R,N70P00M37Y55,PDX,3,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+261386_189-R_N70P05,261386,189-R,N70P05,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+261386_189-R_ORIGINATOR,261386,189-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+266295_075-R_IP9M779,266295,075-R,IP9M779,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+266295_075-R_IP9M779JL7,266295,075-R,IP9M779JL7,PDX,2,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+266295_075-R_IP9M779JL9,266295,075-R,IP9M779JL9,PDX,2,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+266295_075-R_IP9M779JL9KU0,266295,075-R,IP9M779JL9KU0,PDX,3,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+266295_075-R_IP9M779JN0KJ8,266295,075-R,IP9M779JN0KJ8,PDX,3,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+266295_075-R_ORIGINATOR,266295,075-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+271591_306-R_ORIGINATOR,271591,306-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+272462_364-R_ORIGINATOR,272462,364-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+272983_159-R_H1X,272983,159-R,H1X,PDX,0,Gynecologic,"Vaginal cancer, NOS",10046888
+272983_159-R_HXX,272983,159-R,HXX,PDX,0,Gynecologic,"Vaginal cancer, NOS",10046888
+272983_159-R_HXXK01KV0,272983,159-R,HXXK01KV0,PDX,2,Gynecologic,"Vaginal cancer, NOS",10046888
+272983_159-R_HYXKH7,272983,159-R,HYXKH7,PDX,1,Gynecologic,"Vaginal cancer, NOS",10046888
+272983_159-R_ORIGINATOR,272983,159-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Vaginal cancer, NOS",10046888
+273541_280-R_ORIGINATOR,273541,280-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+273589_319-R_AT4,273589,319-R,AT4,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+273589_319-R_AT5,273589,319-R,AT5,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+273589_319-R_AT5A26,273589,319-R,AT5A26,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+273589_319-R_AT5A26C06,273589,319-R,AT5A26C06,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+273589_319-R_AT6A86,273589,319-R,AT6A86,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+273589_319-R_AT7C16,273589,319-R,AT7C16,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+273589_319-R_ORIGINATOR,273589,319-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+274332_332-R_HEP,274332,332-R,HEP,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+274332_332-R_HEQF95,274332,332-R,HEQF95,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+274332_332-R_HETFA3,274332,332-R,HETFA3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+274332_332-R_HETFA8,274332,332-R,HETFA8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+274332_332-R_HEU,274332,332-R,HEU,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+274332_332-R_ORIGINATOR,274332,332-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+275155_148-R_ORIGINATOR,275155,148-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Salivary gland cancer,10039397
+275155_148-R_T12T71TC0,275155,148-R,T12T71TC0,PDX,2,Head and Neck,Salivary gland cancer,10039397
+275155_148-R_T13T75TE5,275155,148-R,T13T75TE5,PDX,2,Head and Neck,Salivary gland cancer,10039397
+275155_148-R_T15TB2TX9,275155,148-R,T15TB2TX9,PDX,2,Head and Neck,Salivary gland cancer,10039397
+275155_148-R_T16,275155,148-R,T16,PDX,0,Head and Neck,Salivary gland cancer,10039397
+275155_148-R_T16TJ3UK1,275155,148-R,T16TJ3UK1,PDX,2,Head and Neck,Salivary gland cancer,10039397
+275375_350-R_AFKEE8,275375,350-R,AFKEE8,PDX,1,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+275375_350-R_AFP,275375,350-R,AFP,PDX,0,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+275375_350-R_AFPF81,275375,350-R,AFPF81,PDX,1,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+275375_350-R_AFPF98,275375,350-R,AFPF98,PDX,1,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+275375_350-R_AFPF99C77_RG-W67,275375,350-R,AFPF99C77_RG-W67,PDX,3,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+275375_350-R_AFPF99C78,275375,350-R,AFPF99C78,PDX,2,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+275375_350-R_ORIGINATOR,275375,350-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+276233_004-R_ORIGINATOR,276233,004-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+281475_159-R_ORIGINATOR,281475,159-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,Transitional cell car. - uroth.,10044409
+281475_159-R_QA3,281475,159-R,QA3,PDX,0,Genitourinary,Transitional cell car. - uroth.,10044409
+281475_159-R_QA3F15,281475,159-R,QA3F15,PDX,1,Genitourinary,Transitional cell car. - uroth.,10044409
+281475_159-R_QA3F15HN7,281475,159-R,QA3F15HN7,PDX,2,Genitourinary,Transitional cell car. - uroth.,10044409
+281475_159-R_QA4F21G30KG7,281475,159-R,QA4F21G30KG7,PDX,3,Genitourinary,Transitional cell car. - uroth.,10044409
+281475_159-R_QA4F22,281475,159-R,QA4F22,PDX,1,Genitourinary,Transitional cell car. - uroth.,10044409
+281475_159-R_QA4F23G21,281475,159-R,QA4F23G21,PDX,2,Genitourinary,Transitional cell car. - uroth.,10044409
+281562_285-R_ORIGINATOR,281562,285-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+282377_053-R_ORIGINATOR,282377,053-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+283228_195-R_A03U59,283228,195-R,A03U59,PDX,1,Skin,Melanoma,10053571
+283228_195-R_A04,283228,195-R,A04,PDX,0,Skin,Melanoma,10053571
+283228_195-R_A04VW4_RG-Q09,283228,195-R,A04VW4_RG-Q09,PDX,2,Skin,Melanoma,10053571
+283228_195-R_ORIGINATOR,283228,195-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+283339_068-R_GEXUJ4,283339,068-R,GEXUJ4,PDX,1,Gynecologic,"Vaginal cancer, NOS",10046888
+283339_068-R_GEXUJ5,283339,068-R,GEXUJ5,PDX,1,Gynecologic,"Vaginal cancer, NOS",10046888
+283339_068-R_GEY,283339,068-R,GEY,PDX,0,Gynecologic,"Vaginal cancer, NOS",10046888
+283339_068-R_GEYUJ7,283339,068-R,GEYUJ7,PDX,1,Gynecologic,"Vaginal cancer, NOS",10046888
+283339_068-R_GFCUG5,283339,068-R,GFCUG5,PDX,1,Gynecologic,"Vaginal cancer, NOS",10046888
+283339_068-R_ORIGINATOR,283339,068-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Vaginal cancer, NOS",10046888
+286954_287-R_ORIGINATOR,286954,287-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Liposarcoma,10024631
+286954_287-R_Z86,286954,287-R,Z86,PDX,0,Musculoskeletal,Liposarcoma,10024631
+286954_287-R_Z86T60QU7,286954,287-R,Z86T60QU7,PDX,2,Musculoskeletal,Liposarcoma,10024631
+286954_287-R_Z87VY5UW3,286954,287-R,Z87VY5UW3,PDX,2,Musculoskeletal,Liposarcoma,10024631
+286954_287-R_Z87VY8,286954,287-R,Z87VY8,PDX,1,Musculoskeletal,Liposarcoma,10024631
+289738_340-R_KFHT83,289738,340-R,KFHT83,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+289738_340-R_KFJ,289738,340-R,KFJ,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+289738_340-R_NCW,289738,340-R,NCW,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+289738_340-R_NCWU28,289738,340-R,NCWU28,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+289738_340-R_NCX,289738,340-R,NCX,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+289738_340-R_NCXT17,289738,340-R,NCXT17,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+289738_340-R_ORIGINATOR,289738,340-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+292632_238-R_C1U,292632,238-R,C1U,PDX,0,Musculoskeletal,Leiomyosarcoma - uterus,10046799
+292632_238-R_C1V,292632,238-R,C1V,PDX,0,Musculoskeletal,Leiomyosarcoma - uterus,10046799
+292632_238-R_C1VF91,292632,238-R,C1VF91,PDX,1,Musculoskeletal,Leiomyosarcoma - uterus,10046799
+292632_238-R_C1VF94,292632,238-R,C1VF94,PDX,1,Musculoskeletal,Leiomyosarcoma - uterus,10046799
+292632_238-R_C1VF94K04,292632,238-R,C1VF94K04,PDX,2,Musculoskeletal,Leiomyosarcoma - uterus,10046799
+292632_238-R_C1VF94K08,292632,238-R,C1VF94K08,PDX,2,Musculoskeletal,Leiomyosarcoma - uterus,10046799
+292632_238-R_ORIGINATOR,292632,238-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Leiomyosarcoma - uterus,10046799
+295223_140-R_CS3,295223,140-R,CS3,PDX,0,Head and Neck,"H & N squamous cell car., NOS",10060121
+295223_140-R_CS3G61,295223,140-R,CS3G61,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+295223_140-R_CS5GA2,295223,140-R,CS5GA2,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+295223_140-R_CS6G66,295223,140-R,CS6G66,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+295223_140-R_CS7G71,295223,140-R,CS7G71,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+295223_140-R_ORIGINATOR,295223,140-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,"H & N squamous cell car., NOS",10060121
+296347_364-R_ORIGINATOR,296347,364-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+299254_011-R_ORIGINATOR,299254,011-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+299254_011-R_QP2,299254,011-R,QP2,PDX,0,Skin,Melanoma,10053571
+299254_011-R_QP3J47,299254,011-R,QP3J47,PDX,1,Skin,Melanoma,10053571
+299254_011-R_QU7JF3,299254,011-R,QU7JF3,PDX,1,Skin,Melanoma,10053571
+299254_011-R_QU7JF6,299254,011-R,QU7JF6,PDX,1,Skin,Melanoma,10053571
+313798_341-R_ORIGINATOR,313798,341-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Squamous cervical cancer,10041848
+313798_341-R_P4GHV3,313798,341-R,P4GHV3,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+313798_341-R_P4GHV3JD6,313798,341-R,P4GHV3JD6,PDX,2,Gynecologic,Squamous cervical cancer,10041848
+313798_341-R_Q2Q,313798,341-R,Q2Q,PDX,0,Gynecologic,Squamous cervical cancer,10041848
+313798_341-R_Q2QK87N46,313798,341-R,Q2QK87N46,PDX,2,Gynecologic,Squamous cervical cancer,10041848
+313798_341-R_Q2QK87N47_RG-NV8,313798,341-R,Q2QK87N47_RG-NV8,PDX,3,Gynecologic,Squamous cervical cancer,10041848
+313798_341-R_Q2QK92,313798,341-R,Q2QK92,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+317291_083-R_EFUCF9,317291,083-R,EFUCF9,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+317291_083-R_EFUCG3CV9,317291,083-R,EFUCG3CV9,PDX,2,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+317291_083-R_EGU,317291,083-R,EGU,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+317291_083-R_EGUCN5,317291,083-R,EGUCN5,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+317291_083-R_EHU,317291,083-R,EHU,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+317291_083-R_ORIGINATOR,317291,083-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+323392_091-R_NPG,323392,091-R,NPG,PDX,0,Head and Neck,"H & N squamous cell car., NOS",10060121
+323392_091-R_NPGW22Y10,323392,091-R,NPGW22Y10,PDX,2,Head and Neck,"H & N squamous cell car., NOS",10060121
+323392_091-R_NPGW24,323392,091-R,NPGW24,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+323392_091-R_NPGW26,323392,091-R,NPGW26,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+323392_091-R_NPGW28_AL-Y25,323392,091-R,NPGW28_AL-Y25,PDX,2,Head and Neck,"H & N squamous cell car., NOS",10060121
+323392_091-R_ORIGINATOR,323392,091-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,"H & N squamous cell car., NOS",10060121
+324938_238-R_AV2T68P82_RG-N29,324938,238-R,AV2T68P82_RG-N29,PDX,3,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+324938_238-R_AV2T68P83,324938,238-R,AV2T68P83,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+324938_238-R_AV2T72,324938,238-R,AV2T72,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+324938_238-R_AV5,324938,238-R,AV5,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+324938_238-R_AV5T71P86,324938,238-R,AV5T71P86,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+324938_238-R_AV5T71P88,324938,238-R,AV5T71P88,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+324938_238-R_ORIGINATOR,324938,238-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+326966_086-R_A8EC49,326966,086-R,A8EC49,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+326966_086-R_A8F,326966,086-R,A8F,PDX,0,Gynecologic,Endometrioid endomet. adenocar.,10014735
+326966_086-R_A8FC55,326966,086-R,A8FC55,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+326966_086-R_A8FC58E47,326966,086-R,A8FC58E47,PDX,2,Gynecologic,Endometrioid endomet. adenocar.,10014735
+326966_086-R_A8G,326966,086-R,A8G,PDX,0,Gynecologic,Endometrioid endomet. adenocar.,10014735
+326966_086-R_A8HCE3,326966,086-R,A8HCE3,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+326966_086-R_ORIGINATOR,326966,086-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+327498_153-R_HNX,327498,153-R,HNX,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+327498_153-R_HNXF59,327498,153-R,HNXF59,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+327498_153-R_HPX,327498,153-R,HPX,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+327498_153-R_HPXF72,327498,153-R,HPXF72,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+327498_153-R_ORIGINATOR,327498,153-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Carcinosarcoma of the uterus,10007508
+328373_195-R_G47GE9,328373,195-R,G47GE9,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+328373_195-R_G47GF1GP6,328373,195-R,G47GF1GP6,PDX,2,Head and Neck,"H & N squamous cell car., NOS",10060121
+328373_195-R_G48GJ3,328373,195-R,G48GJ3,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+328373_195-R_G49GM6GT6Y25,328373,195-R,G49GM6GT6Y25,PDX,3,Head and Neck,"H & N squamous cell car., NOS",10060121
+328373_195-R_G50,328373,195-R,G50,PDX,0,Head and Neck,"H & N squamous cell car., NOS",10060121
+328373_195-R_ORIGINATOR,328373,195-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,"H & N squamous cell car., NOS",10060121
+328469_098-R_E9CF79N98,328469,098-R,E9CF79N98,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+328469_098-R_E9CF81N88,328469,098-R,E9CF81N88,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+328469_098-R_E9CF81N89,328469,098-R,E9CF81N89,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+328469_098-R_E9CF81N91,328469,098-R,E9CF81N91,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+328469_098-R_ORIGINATOR,328469,098-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+328634_206-R_ORIGINATOR,328634,206-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Cholangiocar.- intra/extrahepatic,10004669
+328634_206-R_X6VAU1FC1,328634,206-R,X6VAU1FC1,PDX,2,Digestive/Gastrointestinal,Cholangiocar.- intra/extrahepatic,10004669
+328634_206-R_X6VAU1FC3N36,328634,206-R,X6VAU1FC3N36,PDX,3,Digestive/Gastrointestinal,Cholangiocar.- intra/extrahepatic,10004669
+328634_206-R_X6VAU1FC4N41,328634,206-R,X6VAU1FC4N41,PDX,3,Digestive/Gastrointestinal,Cholangiocar.- intra/extrahepatic,10004669
+328634_206-R_X6VAU6F74,328634,206-R,X6VAU6F74,PDX,2,Digestive/Gastrointestinal,Cholangiocar.- intra/extrahepatic,10004669
+328634_206-R_X6VAU6F74K33,328634,206-R,X6VAU6F74K33,PDX,3,Digestive/Gastrointestinal,Cholangiocar.- intra/extrahepatic,10004669
+331535_300-R_G32,331535,300-R,G32,PDX,0,Gynecologic,Primary peritoneal carcinoma,10026669
+331535_300-R_G33A57,331535,300-R,G33A57,PDX,1,Gynecologic,Primary peritoneal carcinoma,10026669
+331535_300-R_G33A58N02_RG-F73,331535,300-R,G33A58N02_RG-F73,PDX,3,Gynecologic,Primary peritoneal carcinoma,10026669
+331535_300-R_G33A58N02_RG-F73C72,331535,300-R,G33A58N02_RG-F73C72,PDX,4,Gynecologic,Primary peritoneal carcinoma,10026669
+331535_300-R_G33A58N60,331535,300-R,G33A58N60,PDX,2,Gynecologic,Primary peritoneal carcinoma,10026669
+331535_300-R_G35A19,331535,300-R,G35A19,PDX,1,Gynecologic,Primary peritoneal carcinoma,10026669
+331535_300-R_ORIGINATOR,331535,300-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Primary peritoneal carcinoma,10026669
+331888_031-R_HQGB01,331888,031-R,HQGB01,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+331888_031-R_HQGB02U24,331888,031-R,HQGB02U24,PDX,2,Head and Neck,"H & N squamous cell car., NOS",10060121
+331888_031-R_HQHA29,331888,031-R,HQHA29,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+331888_031-R_HQHA32A48A75,331888,031-R,HQHA32A48A75,PDX,3,Head and Neck,"H & N squamous cell car., NOS",10060121
+331888_031-R_ORIGINATOR,331888,031-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,"H & N squamous cell car., NOS",10060121
+333224_299-R_ORIGINATOR,333224,299-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Carcinosarcoma of the uterus,10007508
+333224_299-R_PNE,333224,299-R,PNE,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+333224_299-R_PNEPK6,333224,299-R,PNEPK6,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+333224_299-R_PPT,333224,299-R,PPT,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+333224_299-R_PPTE42,333224,299-R,PPTE42,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+333224_299-R_PPTE42TE2,333224,299-R,PPTE42TE2,PDX,2,Gynecologic,Carcinosarcoma of the uterus,10007508
+333224_299-R_PPTE43QQ1UP2,333224,299-R,PPTE43QQ1UP2,PDX,3,Gynecologic,Carcinosarcoma of the uterus,10007508
+337426_197-R_AL-F5W_AL-A70,337426,197-R,AL-F5W_AL-A70,PDX,1,Breast,Invasive breast carcinoma,10006190
+337426_197-R_AL-F5W_AL-A72E71,337426,197-R,AL-F5W_AL-A72E71,PDX,2,Breast,Invasive breast carcinoma,10006190
+337426_197-R_AL-F5Y,337426,197-R,AL-F5Y,PDX,0,Breast,Invasive breast carcinoma,10006190
+337426_197-R_AL-F5Y_AL-A79_AL-C55_AL-F15,337426,197-R,AL-F5Y_AL-A79_AL-C55_AL-F15,PDX,3,Breast,Invasive breast carcinoma,10006190
+337426_197-R_AL-F5Y_AL-A80,337426,197-R,AL-F5Y_AL-A80,PDX,1,Breast,Invasive breast carcinoma,10006190
+337426_197-R_AL-F5Y_AL-A81_AL-C56_AL-E24_AL-F39,337426,197-R,AL-F5Y_AL-A81_AL-C56_AL-E24_AL-F39,PDX,4,Breast,Invasive breast carcinoma,10006190
+337426_197-R_ORIGINATOR,337426,197-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+337823_066-R_ORIGINATOR,337823,066-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+337823_066-R_UGJJW6_RG-QY8,337823,066-R,UGJJW6_RG-QY8,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+337823_066-R_UGJJW7Q55,337823,066-R,UGJJW7Q55,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+337823_066-R_UGK,337823,066-R,UGK,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+337823_066-R_UGKKC1TJ3,337823,066-R,UGKKC1TJ3,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+337823_066-R_UGKKC1TJ3W61,337823,066-R,UGKKC1TJ3W61,PDX,3,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+337823_066-R_UGKKC2,337823,066-R,UGKKC2,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+341922_053-R_ORIGINATOR,341922,053-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+341922_053-R_UXX,341922,053-R,UXX,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+341922_053-R_UXXNG4,341922,053-R,UXXNG4,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+341922_053-R_UXXNG7PQ1,341922,053-R,UXXNG7PQ1,PDX,2,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+341922_053-R_UXY,341922,053-R,UXY,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+341922_053-R_UYCNW4,341922,053-R,UYCNW4,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+341922_053-R_UYENH2,341922,053-R,UYENH2,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+343268_274-T_ORIGINATOR,343268,274-T,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+343268_274-T_Z41,343268,274-T,Z41,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+343268_274-T_Z41Q86QS8,343268,274-T,Z41Q86QS8,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+343268_274-T_Z41Q89_RG-UB4,343268,274-T,Z41Q89_RG-UB4,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+343268_274-T_Z41Q89_RG-UB5UU9,343268,274-T,Z41Q89_RG-UB5UU9,PDX,3,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+343268_274-T_Z41Q90,343268,274-T,Z41Q90,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+343268_274-T_Z41Q95,343268,274-T,Z41Q95,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+348733_031-R_ORIGINATOR,348733,031-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Ewing sarcoma/Peripheral PNET,10015563
+355891_322-R_ORIGINATOR,355891,322-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+361931_004-R_ORIGINATOR,361931,004-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+361957_307-R_ORIGINATOR,361957,307-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+361957_307-R_QQY,361957,307-R,QQY,PDX,0,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+361957_307-R_QQYJC1,361957,307-R,QQYJC1,PDX,1,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+361957_307-R_QQYJC4G39,361957,307-R,QQYJC4G39,PDX,2,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+361957_307-R_QQYJC4G43GX2,361957,307-R,QQYJC4G43GX2,PDX,3,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+361957_307-R_QQYJC4G43GX3_RG-WE8,361957,307-R,QQYJC4G43GX3_RG-WE8,PDX,4,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+361957_307-R_QQYJC4G43GX3_RG-WE8C51E66,361957,307-R,QQYJC4G43GX3_RG-WE8C51E66,PDX,6,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+362531_283-R_ORIGINATOR,362531,283-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+369146_172-R_F8X,369146,172-R,F8X,PDX,0,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+369146_172-R_F8YQA5,369146,172-R,F8YQA5,PDX,1,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+369146_172-R_F9C,369146,172-R,F9C,PDX,0,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+369146_172-R_F9CQQ3,369146,172-R,F9CQQ3,PDX,1,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+369146_172-R_ORIGINATOR,369146,172-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+372686_303-R_ORIGINATOR,372686,303-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+377368_042-T1_ORIGINATOR,377368,042-T1,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Alveolar soft part sarcoma,10001886
+377368_042-T2_ORIGINATOR,377368,042-T2,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Alveolar soft part sarcoma,10001886
+377594_074-R_ORIGINATOR,377594,074-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+377594_074-R_UKK,377594,074-R,UKK,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+377594_074-R_UKKJQ0,377594,074-R,UKKJQ0,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+377594_074-R_UKKJQ0NX1,377594,074-R,UKKJQ0NX1,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+377594_074-R_UKKJQ2KT0,377594,074-R,UKKJQ2KT0,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+377594_074-R_UKKJQ4_RG-PT8T87,377594,074-R,UKKJQ4_RG-PT8T87,PDX,3,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+377594_074-R_UKKJQ4_RG-PT9,377594,074-R,UKKJQ4_RG-PT9,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+378893_306-R_ORIGINATOR,378893,306-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Squamous cervical cancer,10041848
+378893_306-R_PPCGY6,378893,306-R,PPCGY6,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+378893_306-R_PTV,378893,306-R,PTV,PDX,0,Gynecologic,Squamous cervical cancer,10041848
+378893_306-R_PTVGH8,378893,306-R,PTVGH8,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+378893_306-R_PTW,378893,306-R,PTW,PDX,0,Gynecologic,Squamous cervical cancer,10041848
+378893_306-R_PTWFY5,378893,306-R,PTWFY5,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+378893_306-R_PTWFY8,378893,306-R,PTWFY8,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+381356_305-R_ORIGINATOR,381356,305-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+381356_305-R_PQV,381356,305-R,PQV,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+381356_305-R_PQVE52,381356,305-R,PQVE52,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+381356_305-R_PQVE53J75,381356,305-R,PQVE53J75,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+381356_305-R_PQVE53J79_RG-GH3,381356,305-R,PQVE53J79_RG-GH3,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+381356_305-R_PQVE56,381356,305-R,PQVE56,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+381356_305-R_PQVE56GQ8,381356,305-R,PQVE56GQ8,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+385692_084-R_ORIGINATOR,385692,084-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+388556_164-R_ORIGINATOR,388556,164-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+391396_364-R_ORIGINATOR,391396,364-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+392184_169-R_FYUF39J08,392184,169-R,FYUF39J08,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+392184_169-R_FYUF43G71,392184,169-R,FYUF43G71,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+392184_169-R_FYXF71,392184,169-R,FYXF71,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+392184_169-R_FYY,392184,169-R,FYY,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+392184_169-R_FYYG39,392184,169-R,FYYG39,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+392184_169-R_ORIGINATOR,392184,169-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+394772_225-R_AQ1,394772,225-R,AQ1,PDX,0,Genitourinary,Transitional cell car. - uroth.,10044409
+412248_322-R_ORIGINATOR,412248,322-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+412248_322-R_QXC,412248,322-R,QXC,PDX,0,Breast,Invasive breast carcinoma,10006190
+412248_322-R_QXCXA7,412248,322-R,QXCXA7,PDX,1,Breast,Invasive breast carcinoma,10006190
+412248_322-R_QXTTN3WN6,412248,322-R,QXTTN3WN6,PDX,2,Breast,Invasive breast carcinoma,10006190
+412248_322-R_QXTTN4,412248,322-R,QXTTN4,PDX,1,Breast,Invasive breast carcinoma,10006190
+412248_322-R_QXTTN7,412248,322-R,QXTTN7,PDX,1,Breast,Invasive breast carcinoma,10006190
+412248_322-R_QXUVX9,412248,322-R,QXUVX9,PDX,1,Breast,Invasive breast carcinoma,10006190
+413124_020-R_ORIGINATOR,413124,020-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+413552_270-R_G5A,413552,270-R,G5A,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+413552_270-R_G5AFF4,413552,270-R,G5AFF4,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+413552_270-R_G5GJ00,413552,270-R,G5GJ00,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+413552_270-R_G5GJ01N23,413552,270-R,G5GJ01N23,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+413552_270-R_G5GJ07,413552,270-R,G5GJ07,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+413552_270-R_G5GJ08P23,413552,270-R,G5GJ08P23,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+413552_270-R_ORIGINATOR,413552,270-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+413561_133-T_HA0W01W66,413561,133-T,HA0W01W66,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+413561_133-T_HA0W01W68,413561,133-T,HA0W01W68,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+413561_133-T_HA0W04,413561,133-T,HA0W04,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+413561_133-T_HA1X18,413561,133-T,HA1X18,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+413561_133-T_ORIGINATOR,413561,133-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+414838_212-R_ORIGINATOR,414838,212-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+415267_285-R_AK3,415267,285-R,AK3,PDX,0,Breast,Inflammatory breast carcinoma,10021980
+415267_285-R_AK3JG4,415267,285-R,AK3JG4,PDX,1,Breast,Inflammatory breast carcinoma,10021980
+415267_285-R_AK3JG5K66,415267,285-R,AK3JG5K66,PDX,2,Breast,Inflammatory breast carcinoma,10021980
+415267_285-R_AK3JG5K68C67,415267,285-R,AK3JG5K68C67,PDX,3,Breast,Inflammatory breast carcinoma,10021980
+415267_285-R_AK3JJ0C83,415267,285-R,AK3JJ0C83,PDX,2,Breast,Inflammatory breast carcinoma,10021980
+415267_285-R_AK6,415267,285-R,AK6,PDX,0,Breast,Inflammatory breast carcinoma,10021980
+415267_285-R_ORIGINATOR,415267,285-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Inflammatory breast carcinoma,10021980
+415371_026-R_ORIGINATOR,415371,026-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Squamous cell carcinoma - skin,10041834
+415371_026-R_YQ9,415371,026-R,YQ9,PDX,0,Skin,Squamous cell carcinoma - skin,10041834
+415371_026-R_YQ9XN9,415371,026-R,YQ9XN9,PDX,1,Skin,Squamous cell carcinoma - skin,10041834
+415371_026-R_YQ9XP1WT3,415371,026-R,YQ9XP1WT3,PDX,2,Skin,Squamous cell carcinoma - skin,10041834
+415371_026-R_YR0,415371,026-R,YR0,PDX,0,Skin,Squamous cell carcinoma - skin,10041834
+415371_026-R_YR0WA4WT7,415371,026-R,YR0WA4WT7,PDX,2,Skin,Squamous cell carcinoma - skin,10041834
+415371_026-R_YR0WA5,415371,026-R,YR0WA5,PDX,1,Skin,Squamous cell carcinoma - skin,10041834
+417612_090-R_ORIGINATOR,417612,090-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+419622_098-T_N17,419622,098-T,N17,PDX,0,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+419622_098-T_N17W89M966,419622,098-T,N17W89M966,PDX,2,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+419622_098-T_N17W90M972,419622,098-T,N17W90M972,PDX,2,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+419622_098-T_N17W91M978,419622,098-T,N17W91M978,PDX,2,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+419622_098-T_ORIGINATOR,419622,098-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+421758_270-R_G5HFX0,421758,270-R,G5HFX0,PDX,1,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+421758_270-R_G5J,421758,270-R,G5J,PDX,0,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+421758_270-R_G5JFX5,421758,270-R,G5JFX5,PDX,1,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+421758_270-R_G5JFX7,421758,270-R,G5JFX7,PDX,1,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+421758_270-R_G5K,421758,270-R,G5K,PDX,0,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+421758_270-R_G5PFG3,421758,270-R,G5PFG3,PDX,1,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+421758_270-R_ORIGINATOR,421758,270-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Squamous cell carcinoma - anus,10041840
+422866_222-R5_H4Q,422866,222-R5,H4Q,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+422866_222-R5_H4QLX1PH6,422866,222-R5,H4QLX1PH6,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+422866_222-R5_H4QLX3,422866,222-R5,H4QLX3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+422866_222-R5_H4QNA8PE4QQ3,422866,222-R5,H4QNA8PE4QQ3,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+422866_222-R5_H4QNA8PE6,422866,222-R5,H4QNA8PE6,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+422866_222-R5_H4QNC1,422866,222-R5,H4QNC1,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+422866_222-R5_ORIGINATOR,422866,222-R5,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+427551_204-R_N1AAQ3,427551,204-R,N1AAQ3,PDX,1,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+427551_204-R_NFTAH7,427551,204-R,NFTAH7,PDX,1,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+427551_204-R_NFV,427551,204-R,NFV,PDX,0,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+427551_204-R_NFVCE2,427551,204-R,NFVCE2,PDX,1,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+427551_204-R_ORIGINATOR,427551,204-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+428932_153-R_HHW,428932,153-R,HHW,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+428932_153-R_HHWK44N57,428932,153-R,HHWK44N57,PDX,2,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+428932_153-R_HHWK47,428932,153-R,HHWK47,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+428932_153-R_HJW,428932,153-R,HJW,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+428932_153-R_HJWHV8,428932,153-R,HJWHV8,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+428932_153-R_HJWHW0,428932,153-R,HJWHW0,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+428932_153-R_ORIGINATOR,428932,153-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+428986_081-R_ORIGINATOR,428986,081-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,"Breast cancer, NOS",10006285
+429239_143-T_ORIGINATOR,429239,143-T,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Small cell lung cancer,10041071
+429767_202-R_JQHUX8CA5,429767,202-R,JQHUX8CA5,PDX,2,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+429767_202-R_JQHUX8_RG-HX3K54P84,429767,202-R,JQHUX8_RG-HX3K54P84,PDX,4,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+429767_202-R_JQHUX8_RG-HXY,429767,202-R,JQHUX8_RG-HXY,PDX,2,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+429767_202-R_JQHUY1,429767,202-R,JQHUY1,PDX,1,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+429767_202-R_JQHUY1B25,429767,202-R,JQHUY1B25,PDX,2,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+429767_202-R_ORIGINATOR,429767,202-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+431354_103-R_ORIGINATOR,431354,103-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+431354_103-R_VI2,431354,103-R,VI2,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+431354_103-R_VI2M190K12,431354,103-R,VI2M190K12,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+431354_103-R_VI2M190K13M744,431354,103-R,VI2M190K13M744,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+431354_103-R_VI2M192,431354,103-R,VI2M192,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+431354_103-R_VI3,431354,103-R,VI3,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+431354_103-R_VI3M54,431354,103-R,VI3M54,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+435261_313-R_H22KM3,435261,313-R,H22KM3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+435261_313-R_H23,435261,313-R,H23,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+435261_313-R_H24M828,435261,313-R,H24M828,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+435261_313-R_H25M89,435261,313-R,H25M89,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+435261_313-R_ORIGINATOR,435261,313-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+442324_144-R_FYJ,442324,144-R,FYJ,PDX,0,Digestive/Gastrointestinal,Squamous cell car. - esophagus,10030186
+442324_144-R_FYJX05C87G79,442324,144-R,FYJX05C87G79,PDX,3,Digestive/Gastrointestinal,Squamous cell car. - esophagus,10030186
+442324_144-R_FYJX05C93J14K79,442324,144-R,FYJX05C93J14K79,PDX,4,Digestive/Gastrointestinal,Squamous cell car. - esophagus,10030186
+442324_144-R_FYJX05C93J14K81KG4N43,442324,144-R,FYJX05C93J14K81KG4N43,PDX,6,Digestive/Gastrointestinal,Squamous cell car. - esophagus,10030186
+442324_144-R_FYJX17,442324,144-R,FYJX17,PDX,1,Digestive/Gastrointestinal,Squamous cell car. - esophagus,10030186
+442324_144-R_ORIGINATOR,442324,144-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Squamous cell car. - esophagus,10030186
+444589_340-R_ORIGINATOR,444589,340-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+445384_181-T_ORIGINATOR,445384,181-T,ORIGINATOR,PDX,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+445649_340-R_ORIGINATOR,445649,340-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+445685_031-R_ORIGINATOR,445685,031-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+447687_232-R_FA3M516,447687,232-R,FA3M516,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+447687_232-R_FA4,447687,232-R,FA4,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+447687_232-R_FA4K77,447687,232-R,FA4K77,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+447687_232-R_FA4K77F51_RG-GF9,447687,232-R,FA4K77F51_RG-GF9,PDX,3,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+447687_232-R_FA4K78FP3,447687,232-R,FA4K78FP3,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+447687_232-R_FA4K78FP5W36Q94,447687,232-R,FA4K78FP5W36Q94,PDX,4,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+447687_232-R_ORIGINATOR,447687,232-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+449892_231-R_ORIGINATOR,449892,231-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+451658_271-R_ORIGINATOR,451658,271-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+454973_116-R2_ORIGINATOR,454973,116-R2,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+454973_116-R3_ORIGINATOR,454973,116-R3,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+455511_112-R_ORIGINATOR,455511,112-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+455511_112-R_W18,455511,112-R,W18,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+455511_112-R_W18WX7,455511,112-R,W18WX7,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+455511_112-R_W18WX8_RG-VG7,455511,112-R,W18WX8_RG-VG7,PDX,2,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+455511_112-R_W18WY1,455511,112-R,W18WY1,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+455511_112-R_W20,455511,112-R,W20,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+455511_112-R_W20WU4,455511,112-R,W20WU4,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+457572_356-R_ORIGINATOR,457572,356-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+459288_142-R_FH0F23,459288,142-R,FH0F23,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+459288_142-R_FH0F31,459288,142-R,FH0F31,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+459288_142-R_FHW,459288,142-R,FHW,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+459288_142-R_FHWG63,459288,142-R,FHWG63,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+459288_142-R_FHWG68,459288,142-R,FHWG68,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+459288_142-R_FHX,459288,142-R,FHX,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+459288_142-R_ORIGINATOR,459288,142-R,ORIGINATOR,Patient/Originator Specimen,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+463943_066-T_ORIGINATOR,463943,066-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+464991_137-R_ORIGINATOR,464991,137-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Female reprod. system cancer, NOS",10016411
+464991_137-R_V7T,464991,137-R,V7T,PDX,0,Gynecologic,"Female reprod. system cancer, NOS",10016411
+464991_137-R_V7TGT8,464991,137-R,V7TGT8,PDX,1,Gynecologic,"Female reprod. system cancer, NOS",10016411
+464991_137-R_V7TGT9W44,464991,137-R,V7TGT9W44,PDX,2,Gynecologic,"Female reprod. system cancer, NOS",10016411
+464991_137-R_V7TGT9W44W86WP6,464991,137-R,V7TGT9W44W86WP6,PDX,4,Gynecologic,"Female reprod. system cancer, NOS",10016411
+464991_137-R_V7TGT9W44W89,464991,137-R,V7TGT9W44W89,PDX,3,Gynecologic,"Female reprod. system cancer, NOS",10016411
+464991_137-R_V7TGT9W45_RG-A58,464991,137-R,V7TGT9W45_RG-A58,PDX,3,Gynecologic,"Female reprod. system cancer, NOS",10016411
+466732_252-T_ORIGINATOR,466732,252-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - small intest.,10041115
+466732_252-T_TB5,466732,252-T,TB5,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - small intest.,10041115
+466732_252-T_TB5TU5,466732,252-T,TB5TU5,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - small intest.,10041115
+466732_252-T_TB5TU6UA7,466732,252-T,TB5TU6UA7,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - small intest.,10041115
+466732_252-T_TB6,466732,252-T,TB6,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - small intest.,10041115
+466732_252-T_TB6TP2,466732,252-T,TB6TP2,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - small intest.,10041115
+466732_252-T_TB6TP4UC0,466732,252-T,TB6TP4UC0,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - small intest.,10041115
+467112_017-R_ORIGINATOR,467112,017-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+467112_017-R_T5A,467112,017-R,T5A,PDX,0,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+467112_017-R_T5AQU5,467112,017-R,T5AQU5,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+467112_017-R_TAP,467112,017-R,TAP,PDX,0,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+467112_017-R_TAPTY6,467112,017-R,TAPTY6,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+467112_017-R_TAT,467112,017-R,TAT,PDX,0,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+467112_017-R_TATTA4,467112,017-R,TATTA4,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+467783_034-R_LP0,467783,034-R,LP0,PDX,0,Respiratory/Thoracic,"Non-small cell lung cancer, NOS",10029514
+467783_034-R_LP0MZ4_RG-M204,467783,034-R,LP0MZ4_RG-M204,PDX,2,Respiratory/Thoracic,"Non-small cell lung cancer, NOS",10029514
+467783_034-R_LP0MZ4_RG-M205UR3,467783,034-R,LP0MZ4_RG-M205UR3,PDX,3,Respiratory/Thoracic,"Non-small cell lung cancer, NOS",10029514
+467783_034-R_LP0MZ4_RG-M205UR4Y70B78F85,467783,034-R,LP0MZ4_RG-M205UR4Y70B78F85,PDX,6,Respiratory/Thoracic,"Non-small cell lung cancer, NOS",10029514
+467783_034-R_LP0MZ4_RG-M205UR4Y71,467783,034-R,LP0MZ4_RG-M205UR4Y71,PDX,4,Respiratory/Thoracic,"Non-small cell lung cancer, NOS",10029514
+467783_034-R_LP0MZ9,467783,034-R,LP0MZ9,PDX,1,Respiratory/Thoracic,"Non-small cell lung cancer, NOS",10029514
+467783_034-R_ORIGINATOR,467783,034-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,"Non-small cell lung cancer, NOS",10029514
+474377_126-R_FCYC71,474377,126-R,FCYC71,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+474377_126-R_FCYC72,474377,126-R,FCYC72,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+474377_126-R_FFY,474377,126-R,FFY,PDX,0,Gynecologic,Endometrioid endomet. adenocar.,10014735
+474377_126-R_FFYEV7FP9,474377,126-R,FFYEV7FP9,PDX,2,Gynecologic,Endometrioid endomet. adenocar.,10014735
+474377_126-R_FFYEV7FP9_RG-C68,474377,126-R,FFYEV7FP9_RG-C68,PDX,3,Gynecologic,Endometrioid endomet. adenocar.,10014735
+474377_126-R_FFYEV9,474377,126-R,FFYEV9,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+474377_126-R_ORIGINATOR,474377,126-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+476745_003-R_ORIGINATOR,476745,003-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+481146_293-R_ORIGINATOR,481146,293-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+481146_293-R_PKC,481146,293-R,PKC,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+481146_293-R_PKCPW8,481146,293-R,PKCPW8,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+481146_293-R_PKCPW8UP9_RG-YP9,481146,293-R,PKCPW8UP9_RG-YP9,PDX,3,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+481146_293-R_PKCPX2,481146,293-R,PKCPX2,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+481146_293-R_QJYTF1XX6A29C38,481146,293-R,QJYTF1XX6A29C38,PDX,4,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+483684_250-R_ORIGINATOR,483684,250-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+485368_065-R3_ORIGINATOR,485368,065-R3,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R3_UHU,485368,065-R3,UHU,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R3_UHUP93,485368,065-R3,UHUP93,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R3_UHUP97TT3,485368,065-R3,UHUP97TT3,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R3_UHUP97TT5UE7,485368,065-R3,UHUP97TT5UE7,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R3_UHUP97_RG-VC8,485368,065-R3,UHUP97_RG-VC8,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R3_UHUP97_RG-VC8XA1XX9,485368,065-R3,UHUP97_RG-VC8XA1XX9,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R3_UHUP97_RG-VC9WJ6,485368,065-R3,UHUP97_RG-VC9WJ6,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R4_ORIGINATOR,485368,065-R4,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R4_UJCJG3,485368,065-R4,UJCJG3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R4_UJE,485368,065-R4,UJE,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R4_UJEXVNK87NJ4,485368,065-R4,UJEXVNK87NJ4,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R4_UJEXVNK87NJ7,485368,065-R4,UJEXVNK87NJ7,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R4_UJEXVNK87NJ7QH8,485368,065-R4,UJEXVNK87NJ7QH8,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R4_UJEXVT_RG-PT4,485368,065-R4,UJEXVT_RG-PT4,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R8_UPT,485368,065-R8,UPT,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R8_UPTK18KW9,485368,065-R8,UPTK18KW9,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R8_UPTK18_RG-PU5TG4U42,485368,065-R8,UPTK18_RG-PU5TG4U42,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R8_UPTK19,485368,065-R8,UPTK19,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R8_UPTK20N03,485368,065-R8,UPTK20N03,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485368_065-R8_UPTK20N04PG9,485368,065-R8,UPTK20N04PG9,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+485977_131-R_ORIGINATOR,485977,131-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+486699_345-R_ORIGINATOR,486699,345-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+487391_300-R_ORIGINATOR,487391,300-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+491133_110-R_G7E,491133,110-R,G7E,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+491133_110-R_G7EUZ6J18KE1,491133,110-R,G7EUZ6J18KE1,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+491133_110-R_G7EUZ6J18KE1N62,491133,110-R,G7EUZ6J18KE1N62,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+491133_110-R_G7EUZ6J18KE2,491133,110-R,G7EUZ6J18KE2,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+491133_110-R_G7EUZ6J21,491133,110-R,G7EUZ6J21,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+491133_110-R_G7EUZ7,491133,110-R,G7EUZ7,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+491133_110-R_ORIGINATOR,491133,110-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+494315_158-R_ORIGINATOR,494315,158-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+496974_208-R_KEWK66P90,496974,208-R,KEWK66P90,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+496974_208-R_KEWK70Q98U51,496974,208-R,KEWK70Q98U51,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+496974_208-R_KEWK70Q98U51X32Y57,496974,208-R,KEWK70Q98U51X32Y57,PDX,5,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+496974_208-R_KEWK70Q98U51X33,496974,208-R,KEWK70Q98U51X33,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+496974_208-R_KEWK70Q98U52,496974,208-R,KEWK70Q98U52,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+496974_208-R_KEWK70QA0,496974,208-R,KEWK70QA0,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+496974_208-R_ORIGINATOR,496974,208-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+497265_261-R_ORIGINATOR,497265,261-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Leiomyosarcoma - uterus,10046799
+512936_074-R_EVP,512936,074-R,EVP,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+512936_074-R_EVPCX7,512936,074-R,EVPCX7,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+512936_074-R_EVPD04DV7,512936,074-R,EVPD04DV7,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+512936_074-R_EVPD04DV8FW7,512936,074-R,EVPD04DV8FW7,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+512936_074-R_ORIGINATOR,512936,074-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+513682_313-R_H29A59,513682,313-R,H29A59,PDX,1,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+513682_313-R_H30,513682,313-R,H30,PDX,0,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+513682_313-R_H30E34,513682,313-R,H30E34,PDX,1,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+513682_313-R_H30E35,513682,313-R,H30E35,PDX,1,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+513682_313-R_H30E35G36,513682,313-R,H30E35G36,PDX,2,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+513682_313-R_ORIGINATOR,513682,313-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+514753_038-R_ORIGINATOR,514753,038-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Ovarian cancer, NOS",10033272
+514753_038-R_T6Y,514753,038-R,T6Y,PDX,0,Gynecologic,"Ovarian cancer, NOS",10033272
+514753_038-R_T6YTV2UU2WX9,514753,038-R,T6YTV2UU2WX9,PDX,3,Gynecologic,"Ovarian cancer, NOS",10033272
+514753_038-R_T6YTV6,514753,038-R,T6YTV6,PDX,1,Gynecologic,"Ovarian cancer, NOS",10033272
+514753_038-R_T6YTW0UU8,514753,038-R,T6YTW0UU8,PDX,2,Gynecologic,"Ovarian cancer, NOS",10033272
+514753_038-R_T6YTW0UU8VX9X38,514753,038-R,T6YTW0UU8VX9X38,PDX,4,Gynecologic,"Ovarian cancer, NOS",10033272
+514753_038-R_T6YTW0UU8VY0,514753,038-R,T6YTW0UU8VY0,PDX,3,Gynecologic,"Ovarian cancer, NOS",10033272
+514821_333-R_ORIGINATOR,514821,333-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+514821_333-R_P1E,514821,333-R,P1E,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+514821_333-R_P1XG99,514821,333-R,P1XG99,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+514821_333-R_P1XJ03P13,514821,333-R,P1XJ03P13,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+514821_333-R_P1XJ39,514821,333-R,P1XJ39,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+514821_333-R_Q0W,514821,333-R,Q0W,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+514821_333-R_Q0WJ52,514821,333-R,Q0WJ52,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+515677_202-R_A05M255,515677,202-R,A05M255,PDX,1,Skin,Melanoma,10053571
+515677_202-R_A06M259,515677,202-R,A06M259,PDX,1,Skin,Melanoma,10053571
+515677_202-R_A07,515677,202-R,A07,PDX,0,Skin,Melanoma,10053571
+515677_202-R_A07M216,515677,202-R,A07M216,PDX,1,Skin,Melanoma,10053571
+515677_202-R_A08M221,515677,202-R,A08M221,PDX,1,Skin,Melanoma,10053571
+515677_202-R_ORIGINATOR,515677,202-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+515863_333-R_ORIGINATOR,515863,333-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+519858_162-T_ORIGINATOR,519858,162-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+519858_162-T_T24,519858,162-T,T24,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+519858_162-T_T24TK6UD6V01,519858,162-T,T24TK6UD6V01,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+519858_162-T_T24TK6UD8,519858,162-T,T24TK6UD8,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+519858_162-T_T24TK7U91V04,519858,162-T,T24TK7U91V04,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+519858_162-T_T24TK8U94V07,519858,162-T,T24TK8U94V07,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+519858_162-T_T24TK8U95,519858,162-T,T24TK8U95,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+521389_187-R_ORIGINATOR,521389,187-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,"Gastrointestinal cancer, NOS",10017986
+521955_158-R2_FW8G26,521955,158-R2,FW8G26,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R2_FW9,521955,158-R2,FW9,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R2_FW9FQ4,521955,158-R2,FW9FQ4,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R2_FW9FQ4H45,521955,158-R2,FW9FQ4H45,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R2_FW9FQ6J17,521955,158-R2,FW9FQ6J17,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R2_FW9FQ7,521955,158-R2,FW9FQ7,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R3_FY4,521955,158-R3,FY4,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R3_FY4DU9,521955,158-R3,FY4DU9,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R3_FY4DV1F55GP1,521955,158-R3,FY4DV1F55GP1,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R3_FY4DV2FU4HH2,521955,158-R3,FY4DV2FU4HH2,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R3_FY4DV2FU7,521955,158-R3,FY4DV2FU7,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R3_FY4DV2FU7H83J31,521955,158-R3,FY4DV2FU7H83J31,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R3_ORIGINATOR,521955,158-R3,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R4_FY6,521955,158-R4,FY6,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R4_FY6D77,521955,158-R4,FY6D77,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R4_FY8,521955,158-R4,FY8,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R4_FY8FC5,521955,158-R4,FY8FC5,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R4_H2AD52DW3,521955,158-R4,H2AD52DW3,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R4_H2AD52DW4_RG-G80,521955,158-R4,H2AD52DW4_RG-G80,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R4_ORIGINATOR,521955,158-R4,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R5_ORIGINATOR,521955,158-R5,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R5_RG-AL-KQ7,521955,158-R5,RG-AL-KQ7,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R5_RG-AL-KQ7Q16TP0,521955,158-R5,RG-AL-KQ7Q16TP0,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R5_RG-AL-KQ7Q18U42,521955,158-R5,RG-AL-KQ7Q18U42,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R5_RG-AL-KQ7Q19UA5,521955,158-R5,RG-AL-KQ7Q19UA5,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R5_RG-AL-KQ7_AL-Q21,521955,158-R5,RG-AL-KQ7_AL-Q21,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R5_RG-AL-KQ7_AL-Q24TP6,521955,158-R5,RG-AL-KQ7_AL-Q24TP6,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R6_H2C,521955,158-R6,H2C,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R6_H3C,521955,158-R6,H3C,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R6_H3CDV4FV5,521955,158-R6,H3CDV4FV5,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R6_H3CDV5FK0GV8,521955,158-R6,H3CDV5FK0GV8,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R6_H4CGA1,521955,158-R6,H4CGA1,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R6_H5CDY3GN6,521955,158-R6,H5CDY3GN6,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R6_ORIGINATOR,521955,158-R6,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+521955_158-R7_ORIGINATOR,521955,158-R7,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+522493_142-R_ORIGINATOR,522493,142-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+522493_142-R_XJYKU6_RG-T58,522493,142-R,XJYKU6_RG-T58,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+522493_142-R_XKP,522493,142-R,XKP,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+522493_142-R_XKPKU9,522493,142-R,XKPKU9,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+522493_142-R_XKPKV1,522493,142-R,XKPKV1,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+522493_142-R_XKQ,522493,142-R,XKQ,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+522493_142-R_XKQKK3,522493,142-R,XKQKK3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+523694_262-R_ORIGINATOR,523694,262-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+524269_139-T_E8Y,524269,139-T,E8Y,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+524269_139-T_E8YH47,524269,139-T,E8YH47,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+524269_139-T_E8YH47HQ7,524269,139-T,E8YH47HQ7,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+524269_139-T_E8YH48,524269,139-T,E8YH48,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+524269_139-T_E8YH49HP2,524269,139-T,E8YH49HP2,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+524269_139-T_E8YH49HP4,524269,139-T,E8YH49HP4,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+524269_139-T_ORIGINATOR,524269,139-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+528666_305-R_ORIGINATOR,528666,305-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+529294_124-R_ORIGINATOR,529294,124-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+535342_205-R_ORIGINATOR,535342,205-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+535665_135-R_JW7KF4,535665,135-R,JW7KF4,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+535665_135-R_JW7KF8,535665,135-R,JW7KF8,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+535665_135-R_JW7KF9L06NY6,535665,135-R,JW7KF9L06NY6,PDX,3,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+535665_135-R_JX1,535665,135-R,JX1,PDX,0,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+535665_135-R_JX1KM8_RG-K68N94P52,535665,135-R,JX1KM8_RG-K68N94P52,PDX,4,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+535665_135-R_JX1KM8_RG-VE8,535665,135-R,JX1KM8_RG-VE8,PDX,2,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+535665_135-R_ORIGINATOR,535665,135-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+538559_288-R_A26QL8,538559,288-R,A26QL8,PDX,1,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+538559_288-R_A26QL8W80,538559,288-R,A26QL8W80,PDX,2,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+538559_288-R_A29,538559,288-R,A29,PDX,0,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+538559_288-R_A29QM4,538559,288-R,A29QM4,PDX,1,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+538559_288-R_A29QM4_RG-VE3A07F14,538559,288-R,A29QM4_RG-VE3A07F14,PDX,4,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+538559_288-R_A29QM4_RG-VE3A09,538559,288-R,A29QM4_RG-VE3A09,PDX,3,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+538559_288-R_ORIGINATOR,538559,288-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+541839_054-R_C8X,541839,054-R,C8X,PDX,0,Gynecologic,Ovarian epithelial cancer,10033159
+541839_054-R_C8XTA2PC7,541839,054-R,C8XTA2PC7,PDX,2,Gynecologic,Ovarian epithelial cancer,10033159
+541839_054-R_C8XTA3,541839,054-R,C8XTA3,PDX,1,Gynecologic,Ovarian epithelial cancer,10033159
+541839_054-R_C8XTA3_RG-VK9,541839,054-R,C8XTA3_RG-VK9,PDX,2,Gynecologic,Ovarian epithelial cancer,10033159
+541839_054-R_C8XTA4PE1,541839,054-R,C8XTA4PE1,PDX,2,Gynecologic,Ovarian epithelial cancer,10033159
+541839_054-R_C8XTA5P53,541839,054-R,C8XTA5P53,PDX,2,Gynecologic,Ovarian epithelial cancer,10033159
+541839_054-R_ORIGINATOR,541839,054-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+543588_082-R_ORIGINATOR,543588,082-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+544552_058-R_ORIGINATOR,544552,058-R,ORIGINATOR,Patient/Originator Specimen,-,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+549293_155-R_ORIGINATOR,549293,155-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+551195_344-R_CET,551195,344-R,CET,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+551195_344-R_CETWN5,551195,344-R,CETWN5,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+551195_344-R_CEVWA1WW9,551195,344-R,CEVWA1WW9,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+551195_344-R_CEVWA2WU5,551195,344-R,CEVWA2WU5,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+551195_344-R_CEVWA3WV8,551195,344-R,CEVWA3WV8,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+551195_344-R_CEVWA6,551195,344-R,CEVWA6,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+551195_344-R_ORIGINATOR,551195,344-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+555411_135-R_ORIGINATOR,555411,135-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+555926_031-R_ORIGINATOR,555926,031-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+556581_035-R_ORIGINATOR,556581,035-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+558632_135-R_ORIGINATOR,558632,135-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+558786_286-R_ORIGINATOR,558786,286-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+561559_040-R_ORIGINATOR,561559,040-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+562452_108-R_ORIGINATOR,562452,108-R,ORIGINATOR,PDX,-,Breast,Invasive breast carcinoma,10006190
+562715_036-R_ORIGINATOR,562715,036-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Carcinosarcoma of the uterus,10007508
+562715_036-R_YY2,562715,036-R,YY2,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+562715_036-R_YY2CGT,562715,036-R,YY2CGT,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+562715_036-R_YY2CGTQ32PG7,562715,036-R,YY2CGTQ32PG7,PDX,3,Gynecologic,Carcinosarcoma of the uterus,10007508
+562715_036-R_YY2CGTQ33,562715,036-R,YY2CGTQ33,PDX,2,Gynecologic,Carcinosarcoma of the uterus,10007508
+562715_036-R_YY2CGU,562715,036-R,YY2CGU,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+562715_036-R_YY2CGUQ37,562715,036-R,YY2CGUQ37,PDX,2,Gynecologic,Carcinosarcoma of the uterus,10007508
+563396_261-R_KN9L92,563396,261-R,KN9L92,PDX,1,Skin,Melanoma,10053571
+563396_261-R_KN9L97_RG-M706,563396,261-R,KN9L97_RG-M706,PDX,2,Skin,Melanoma,10053571
+563396_261-R_KN9L97_RG-M710,563396,261-R,KN9L97_RG-M710,PDX,2,Skin,Melanoma,10053571
+563396_261-R_KP0,563396,261-R,KP0,PDX,0,Skin,Melanoma,10053571
+563396_261-R_KP1LD4,563396,261-R,KP1LD4,PDX,1,Skin,Melanoma,10053571
+563396_261-R_KP1LD5,563396,261-R,KP1LD5,PDX,1,Skin,Melanoma,10053571
+563396_261-R_ORIGINATOR,563396,261-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+564653_332-T_ORIGINATOR,564653,332-T,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,Transitional cell car. - uroth.,10044409
+565248_004-R_ORIGINATOR,565248,004-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+572736_102-R_ORIGINATOR,572736,102-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+572874_153-T_ORIGINATOR,572874,153-T,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+572918_348-R_ORIGINATOR,572918,348-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+575813_281-R1_ORIGINATOR,575813,281-R1,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Ovarian cancer, NOS",10033272
+575813_281-R2_ORIGINATOR,575813,281-R2,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Ovarian cancer, NOS",10033272
+576588_073-R_CVFC89,576588,073-R,CVFC89,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+576588_073-R_CVG,576588,073-R,CVG,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+576588_073-R_CVGC96G32,576588,073-R,CVGC96G32,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+576588_073-R_CVJG04,576588,073-R,CVJG04,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+576588_073-R_CVKF53J41,576588,073-R,CVKF53J41,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+576588_073-R_CVKF55,576588,073-R,CVKF55,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+576588_073-R_ORIGINATOR,576588,073-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+582836_169-R_A37,582836,169-R,A37,PDX,0,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+582836_169-R_A37AA1,582836,169-R,A37AA1,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+582836_169-R_A38AC6,582836,169-R,A38AC6,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+582836_169-R_A38AC8,582836,169-R,A38AC8,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+582836_169-R_A39,582836,169-R,A39,PDX,0,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+582836_169-R_A39AH5,582836,169-R,A39AH5,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+582836_169-R_ORIGINATOR,582836,169-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+591375_129-R_FA4,591375,129-R,FA4,PDX,0,Respiratory/Thoracic,"Non-small cell lung cancer, NOS",10029514
+592788_150-R3_ORIGINATOR,592788,150-R3,ORIGINATOR,Patient/Originator Specimen,-,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+592788_150-R4_FNV,592788,150-R4,FNV,PDX,0,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+592788_150-R4_FNVN93,592788,150-R4,FNVN93,PDX,1,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+592788_150-R4_FNWK93,592788,150-R4,FNWK93,PDX,1,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+592788_150-R4_FNWK93P27,592788,150-R4,FNWK93P27,PDX,2,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+592788_150-R4_FNWK93P27T05T36,592788,150-R4,FNWK93P27T05T36,PDX,4,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+592788_150-R4_FNWK93P27T06,592788,150-R4,FNWK93P27T06,PDX,3,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+592788_150-R4_ORIGINATOR,592788,150-R4,ORIGINATOR,Patient/Originator Specimen,-,Endocrine and Neuroendocrine,Adrenocortical carcinoma,10001327
+592915_224-R_ORIGINATOR,592915,224-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+593322_323-R_AT4,593322,323-R,AT4,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+593322_323-R_AT5,593322,323-R,AT5,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+594176_295-R_AL6,594176,295-R,AL6,PDX,0,Musculoskeletal,Osteosarcoma,10031291
+594176_295-R_AL6IW2,594176,295-R,AL6IW2,PDX,1,Musculoskeletal,Osteosarcoma,10031291
+594176_295-R_AL6IW2M370,594176,295-R,AL6IW2M370,PDX,2,Musculoskeletal,Osteosarcoma,10031291
+594176_295-R_AL7II7,594176,295-R,AL7II7,PDX,1,Musculoskeletal,Osteosarcoma,10031291
+594176_295-R_AL7IJ9W32,594176,295-R,AL7IJ9W32,PDX,2,Musculoskeletal,Osteosarcoma,10031291
+594176_295-R_AL8,594176,295-R,AL8,PDX,0,Musculoskeletal,Osteosarcoma,10031291
+594176_295-R_ORIGINATOR,594176,295-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Osteosarcoma,10031291
+594992_005-R_ORIGINATOR,594992,005-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+596521_263-R_J8K,596521,263-R,J8K,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+596521_263-R_J8KLW6,596521,263-R,J8KLW6,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+596521_263-R_J8N,596521,263-R,J8N,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+596521_263-R_J8NLX8,596521,263-R,J8NLX8,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+596521_263-R_J8NNC7,596521,263-R,J8NNC7,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+596521_263-R_ORIGINATOR,596521,263-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+597326_320-R_ORIGINATOR,597326,320-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Renal cell carcinoma, NOS",10038415
+597326_320-R_X45UC7,597326,320-R,X45UC7,PDX,1,Genitourinary,"Renal cell carcinoma, NOS",10038415
+597326_320-R_X45UC7T26,597326,320-R,X45UC7T26,PDX,2,Genitourinary,"Renal cell carcinoma, NOS",10038415
+597326_320-R_X45UC8T56,597326,320-R,X45UC8T56,PDX,2,Genitourinary,"Renal cell carcinoma, NOS",10038415
+597326_320-R_X45UC9_RG-TZ1,597326,320-R,X45UC9_RG-TZ1,PDX,3,Genitourinary,"Renal cell carcinoma, NOS",10038415
+598228_144-R_ORIGINATOR,598228,144-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Serous endometrial adenocarcinoma,10033700
+612792_311-R_ORIGINATOR,612792,311-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+615535_235-R_GT0G15,615535,235-R,GT0G15,PDX,1,Gynecologic,"Uterine cancer, NOS",10046804
+615535_235-R_GT9,615535,235-R,GT9,PDX,0,Gynecologic,"Uterine cancer, NOS",10046804
+615535_235-R_GTXG25,615535,235-R,GTXG25,PDX,1,Gynecologic,"Uterine cancer, NOS",10046804
+615535_235-R_GTY,615535,235-R,GTY,PDX,0,Gynecologic,"Uterine cancer, NOS",10046804
+615535_235-R_GTYF70,615535,235-R,GTYF70,PDX,1,Gynecologic,"Uterine cancer, NOS",10046804
+615535_235-R_GUXF84,615535,235-R,GUXF84,PDX,1,Gynecologic,"Uterine cancer, NOS",10046804
+615535_235-R_ORIGINATOR,615535,235-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Uterine cancer, NOS",10046804
+616732_234-R1_H7C,616732,234-R1,H7C,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R1_H7CN09_RG-F28,616732,234-R1,H7CN09_RG-F28,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R1_H7CN09_RG-F28N77,616732,234-R1,H7CN09_RG-F28N77,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R1_H7CN11,616732,234-R1,H7CN11,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R1_H7CN30,616732,234-R1,H7CN30,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R1_H8C,616732,234-R1,H8C,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R1_ORIGINATOR,616732,234-R1,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R2_H2EN46PR0,616732,234-R2,H2EN46PR0,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R2_H2EN46PR2AK5,616732,234-R2,H2EN46PR2AK5,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R2_H2EN68,616732,234-R2,H2EN68,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R2_JWG,616732,234-R2,JWG,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R2_JWGPJ2,616732,234-R2,JWGPJ2,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R2_ORIGINATOR,616732,234-R2,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R3_H3GN16,616732,234-R3,H3GN16,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R3_H9H,616732,234-R3,H9H,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R3_H9HE03,616732,234-R3,H9HE03,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R3_H9HE04,616732,234-R3,H9HE04,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+616732_234-R3_ORIGINATOR,616732,234-R3,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+618468_307-R_ORIGINATOR,618468,307-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+618468_307-R_PTQ,618468,307-R,PTQ,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+618468_307-R_PTQFW8,618468,307-R,PTQFW8,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+618468_307-R_PTQFW9M564,618468,307-R,PTQFW9M564,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+618468_307-R_PTTFX1M582,618468,307-R,PTTFX1M582,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+618468_307-R_PTUFX3,618468,307-R,PTUFX3,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+618468_307-R_PTUFX5,618468,307-R,PTUFX5,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+624824_186-R_ORIGINATOR,624824,186-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+626397_294-R_ORIGINATOR,626397,294-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+627122_101-R_ORIGINATOR,627122,101-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+627122_101-R_VQFAX6,627122,101-R,VQFAX6,PDX,1,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+627122_101-R_VQH,627122,101-R,VQH,PDX,0,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+627122_101-R_VQHT60,627122,101-R,VQHT60,PDX,1,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+627122_101-R_VQNTE5,627122,101-R,VQNTE5,PDX,1,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+627122_101-R_VQNTF1K18,627122,101-R,VQNTF1K18,PDX,2,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+627122_101-R_VQNTF1K20P89V06,627122,101-R,VQNTF1K20P89V06,PDX,4,Digestive/Gastrointestinal,Gastrointestinal stromal tumor,10051066
+627137_287-R_ORIGINATOR,627137,287-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+627137_287-R_PJGN54A76,627137,287-R,PJGN54A76,PDX,2,Gynecologic,Ovarian epithelial cancer,10033159
+627137_287-R_PJGN54A76AU6E04,627137,287-R,PJGN54A76AU6E04,PDX,4,Gynecologic,Ovarian epithelial cancer,10033159
+627137_287-R_PJGN54A76AU7,627137,287-R,PJGN54A76AU7,PDX,3,Gynecologic,Ovarian epithelial cancer,10033159
+627137_287-R_PJGN57,627137,287-R,PJGN57,PDX,1,Gynecologic,Ovarian epithelial cancer,10033159
+627137_287-R_PJT,627137,287-R,PJT,PDX,0,Gynecologic,Ovarian epithelial cancer,10033159
+627137_287-R_PJTAJ0,627137,287-R,PJTAJ0,PDX,1,Gynecologic,Ovarian epithelial cancer,10033159
+628479_137-R10_ORIGINATOR,628479,137-R10,ORIGINATOR,PDX,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+628479_137-R9_ORIGINATOR,628479,137-R9,ORIGINATOR,PDX,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+628569_122-R_ORIGINATOR,628569,122-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+628781_278-R_ORIGINATOR,628781,278-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+628781_278-R_QAJ,628781,278-R,QAJ,PDX,0,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+628781_278-R_QAJPH1,628781,278-R,QAJPH1,PDX,1,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+628781_278-R_QAJPP5C49,628781,278-R,QAJPP5C49,PDX,2,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+628781_278-R_QFNPH5,628781,278-R,QFNPH5,PDX,1,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+628781_278-R_QFNPK2_RG-J79,628781,278-R,QFNPK2_RG-J79,PDX,2,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+628781_278-R_QFNPK2_RG-J80,628781,278-R,QFNPK2_RG-J80,PDX,2,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+629538_142-R_FG0,629538,142-R,FG0,PDX,0,Gynecologic,Endometrioid endomet. adenocar.,10014735
+629538_142-R_FG0J43K51,629538,142-R,FG0J43K51,PDX,2,Gynecologic,Endometrioid endomet. adenocar.,10014735
+629538_142-R_FG0J44,629538,142-R,FG0J44,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+629538_142-R_FHUJ52,629538,142-R,FHUJ52,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+629538_142-R_FHV,629538,142-R,FHV,PDX,0,Gynecologic,Endometrioid endomet. adenocar.,10014735
+629538_142-R_FHVJ55K28,629538,142-R,FHVJ55K28,PDX,2,Gynecologic,Endometrioid endomet. adenocar.,10014735
+629538_142-R_ORIGINATOR,629538,142-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+632484_111-R_AL-N57_AL-M282,632484,111-R,AL-N57_AL-M282,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+632484_111-R_AL-N58,632484,111-R,AL-N58,PDX,0,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+632484_111-R_AL-N58WC2,632484,111-R,AL-N58WC2,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+632484_111-R_AL-N58WC2M202,632484,111-R,AL-N58WC2M202,PDX,2,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+632484_111-R_AL-N59_AL-M172,632484,111-R,AL-N59_AL-M172,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+632484_111-R_AL-N60M364,632484,111-R,AL-N60M364,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+632484_111-R_ORIGINATOR,632484,111-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+633739_251-R_ORIGINATOR,633739,251-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+633993_097-R_ORIGINATOR,633993,097-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+633993_097-R_VI5E39F05YA5,633993,097-R,VI5E39F05YA5,PDX,3,Skin,Melanoma,10053571
+633993_097-R_VI5E39F06,633993,097-R,VI5E39F06,PDX,2,Skin,Melanoma,10053571
+633993_097-R_VI7,633993,097-R,VI7,PDX,0,Skin,Melanoma,10053571
+633993_097-R_VI7QT0,633993,097-R,VI7QT0,PDX,1,Skin,Melanoma,10053571
+633993_097-R_VI8,633993,097-R,VI8,PDX,0,Skin,Melanoma,10053571
+633993_097-R_VI8M979,633993,097-R,VI8M979,PDX,1,Skin,Melanoma,10053571
+636577_100-R_ORIGINATOR,636577,100-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+636577_100-R_VPH,636577,100-R,VPH,PDX,0,Gynecologic,Endometrioid endomet. adenocar.,10014735
+636577_100-R_VPHNK0,636577,100-R,VPHNK0,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+636577_100-R_VPHNK1,636577,100-R,VPHNK1,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+636577_100-R_VPHNK1P31,636577,100-R,VPHNK1P31,PDX,2,Gynecologic,Endometrioid endomet. adenocar.,10014735
+638234_109-R_G5PZ51,638234,109-R,G5PZ51,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+638234_109-R_G5V,638234,109-R,G5V,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+638234_109-R_G5VA89H27J64,638234,109-R,G5VA89H27J64,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+638234_109-R_G5VA89H27J65KC4,638234,109-R,G5VA89H27J65KC4,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+638234_109-R_G5VA89H28,638234,109-R,G5VA89H28,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+638234_109-R_G5VA90,638234,109-R,G5VA90,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+638234_109-R_ORIGINATOR,638234,109-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+639262_121-R_NUP,639262,121-R,NUP,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+639262_121-R_NUPK73PN6,639262,121-R,NUPK73PN6,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+639262_121-R_NUQK77,639262,121-R,NUQK77,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+639262_121-R_NUTKH7,639262,121-R,NUTKH7,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+639262_121-R_NUTKH7_RG-T06,639262,121-R,NUTKH7_RG-T06,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+639262_121-R_ORIGINATOR,639262,121-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+639538_348-R_CHX,639538,348-R,CHX,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+639538_348-R_CHXUE0UT9,639538,348-R,CHXUE0UT9,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+639538_348-R_CHXUE0UU2,639538,348-R,CHXUE0UU2,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+639538_348-R_CHXUE0UU2_RG-VN4Y06AF9,639538,348-R,CHXUE0UU2_RG-VN4Y06AF9,PDX,5,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+639538_348-R_CHXUE0UU2_RG-VN4Y07,639538,348-R,CHXUE0UU2_RG-VN4Y07,PDX,4,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+639538_348-R_CJCUP4TZ7,639538,348-R,CJCUP4TZ7,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+639538_348-R_ORIGINATOR,639538,348-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+648538_100-R_ORIGINATOR,648538,100-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Salivary gland cancer,10039397
+648629_189-R_ORIGINATOR,648629,189-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+653398_132-R_ORIGINATOR,653398,132-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+655913_031-T_ORIGINATOR,655913,031-T,ORIGINATOR,PDX,-,Gynecologic,Ovarian epithelial cancer,10033159
+659161_295-R_ORIGINATOR,659161,295-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Cervical cancer, NOS",10008238
+665939_344-R_ORIGINATOR,665939,344-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+665939_344-R_YH0XJ4,665939,344-R,YH0XJ4,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+665939_344-R_YH1,665939,344-R,YH1,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+665939_344-R_YH1W67,665939,344-R,YH1W67,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+665939_344-R_YH2X72,665939,344-R,YH2X72,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+665939_344-R_YH2X73,665939,344-R,YH2X73,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+665939_344-R_YH3XJ7,665939,344-R,YH3XJ7,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+668155_338-R_ORIGINATOR,668155,338-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,"H & N squamous cell car., NOS",10060121
+668155_338-R_YE7,668155,338-R,YE7,PDX,0,Head and Neck,"H & N squamous cell car., NOS",10060121
+668155_338-R_YE7X30W81,668155,338-R,YE7X30W81,PDX,2,Head and Neck,"H & N squamous cell car., NOS",10060121
+668155_338-R_YE8XD4,668155,338-R,YE8XD4,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+668155_338-R_YF0XE0,668155,338-R,YF0XE0,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+669591_354-R_ORIGINATOR,669591,354-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+671287_276-R_AAT,671287,276-R,AAT,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+671287_276-R_AATG11,671287,276-R,AATG11,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+671287_276-R_AATG13J93K64N58,671287,276-R,AATG13J93K64N58,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+671287_276-R_AE2G58,671287,276-R,AE2G58,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+671287_276-R_ORIGINATOR,671287,276-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+673867_039-R_ORIGINATOR,673867,039-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+674348_317-R_KFY,674348,317-R,KFY,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+674348_317-R_KFYT24,674348,317-R,KFYT24,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+674348_317-R_KFYT25V08,674348,317-R,KFYT25V08,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+674348_317-R_KFYT26V16,674348,317-R,KFYT26V16,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+674348_317-R_KFYT29,674348,317-R,KFYT29,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+674348_317-R_KFYT31,674348,317-R,KFYT31,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+674348_317-R_ORIGINATOR,674348,317-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+675812_077-R_GJX,675812,077-R,GJX,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+675812_077-R_GJXT31,675812,077-R,GJXT31,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+675812_077-R_GJXT33_RG-VN7,675812,077-R,GJXT33_RG-VN7,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+675812_077-R_GJXT33_RG-VP0,675812,077-R,GJXT33_RG-VP0,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+675812_077-R_GKA,675812,077-R,GKA,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+675812_077-R_GKATE9,675812,077-R,GKATE9,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+675812_077-R_ORIGINATOR,675812,077-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+676499_111-R_E4KCP6,676499,111-R,E4KCP6,PDX,1,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+676499_111-R_E4KCP6JV7W28,676499,111-R,E4KCP6JV7W28,PDX,3,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+676499_111-R_E4KCP6JV7W28_RG-E99Q04,676499,111-R,E4KCP6JV7W28_RG-E99Q04,PDX,5,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+676499_111-R_E4KCP6JV7W28_RG-E99Q06U26,676499,111-R,E4KCP6JV7W28_RG-E99Q06U26,PDX,6,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+676499_111-R_E4KCP6JV7W29A38J90,676499,111-R,E4KCP6JV7W29A38J90,PDX,5,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+676499_111-R_E4KCP8,676499,111-R,E4KCP8,PDX,1,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+676499_111-R_ORIGINATOR,676499,111-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+681556_308-R_ORIGINATOR,681556,308-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,Transitional cell car. - uroth.,10044409
+684819_155-R_AL-Q92,684819,155-R,AL-Q92,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+684819_155-R_AL-Q92WY9D71,684819,155-R,AL-Q92WY9D71,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+684819_155-R_AL-Q92WY9D72GK0,684819,155-R,AL-Q92WY9D72GK0,PDX,3,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+684819_155-R_AL-Q92_AL-WY0DG4K27,684819,155-R,AL-Q92_AL-WY0DG4K27,PDX,3,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+684819_155-R_AL-Q92_AL-WY3FG7,684819,155-R,AL-Q92_AL-WY3FG7,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+684819_155-R_AL-Q92_AL-WY3FG7N74,684819,155-R,AL-Q92_AL-WY3FG7N74,PDX,3,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+684819_155-R_ORIGINATOR,684819,155-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+686756_172-R_F02WN1XU1Y51,686756,172-R,F02WN1XU1Y51,PDX,3,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+686756_172-R_F02WN1XU4,686756,172-R,F02WN1XU4,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+686756_172-R_F02WN2,686756,172-R,F02WN2,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+686756_172-R_F02WN5_RG-YX7,686756,172-R,F02WN5_RG-YX7,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+686756_172-R_F02WN7,686756,172-R,F02WN7,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+686756_172-R_ORIGINATOR,686756,172-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+691877_024-R_ORIGINATOR,691877,024-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+692585_246-R_AB7IJ0,692585,246-R,AB7IJ0,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+692585_246-R_AB7IJ0NH9QS9,692585,246-R,AB7IJ0NH9QS9,PDX,3,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+692585_246-R_AB7IJ0NI0,692585,246-R,AB7IJ0NI0,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+692585_246-R_AB7IJ1NK6M780,692585,246-R,AB7IJ1NK6M780,PDX,3,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+692585_246-R_ORIGINATOR,692585,246-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+694582_093-R_ORIGINATOR,694582,093-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Squamous cervical cancer,10041848
+697273_096-R_ORIGINATOR,697273,096-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+698357_238-R_AW5,698357,238-R,AW5,PDX,0,Musculoskeletal,Osteosarcoma,10031291
+698357_238-R_AW5Q00,698357,238-R,AW5Q00,PDX,1,Musculoskeletal,Osteosarcoma,10031291
+698357_238-R_AW5Q02,698357,238-R,AW5Q02,PDX,1,Musculoskeletal,Osteosarcoma,10031291
+698357_238-R_AW5Q02Q69,698357,238-R,AW5Q02Q69,PDX,2,Musculoskeletal,Osteosarcoma,10031291
+698357_238-R_AW5Q02_RG-M217QM8,698357,238-R,AW5Q02_RG-M217QM8,PDX,3,Musculoskeletal,Osteosarcoma,10031291
+698357_238-R_AW5Q02_RG-M220,698357,238-R,AW5Q02_RG-M220,PDX,2,Musculoskeletal,Osteosarcoma,10031291
+698357_238-R_ORIGINATOR,698357,238-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Osteosarcoma,10031291
+712175_110-R_ORIGINATOR,712175,110-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+712175_110-R_PA8M983,712175,110-R,PA8M983,PDX,1,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+712175_110-R_PA8M985EU6,712175,110-R,PA8M985EU6,PDX,2,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+712175_110-R_PA8M985EU8,712175,110-R,PA8M985EU8,PDX,2,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+712175_110-R_PA8M988,712175,110-R,PA8M988,PDX,1,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+713595_302-R_FL7,713595,302-R,FL7,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+713595_302-R_FL7DM1,713595,302-R,FL7DM1,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+713595_302-R_FL9,713595,302-R,FL9,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+713595_302-R_FL9D77DK1,713595,302-R,FL9D77DK1,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+713595_302-R_FL9D78,713595,302-R,FL9D78,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+713595_302-R_FL9D79DH7,713595,302-R,FL9D79DH7,PDX,2,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+713595_302-R_ORIGINATOR,713595,302-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+713683_067-R_CQJ,713683,067-R,CQJ,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+713683_067-R_CQJJ45P81T56,713683,067-R,CQJJ45P81T56,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+713683_067-R_CQJJ45P81T66,713683,067-R,CQJJ45P81T66,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+713683_067-R_CQJJ45P83U12,713683,067-R,CQJJ45P83U12,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+713683_067-R_CQJJ45P85T87,713683,067-R,CQJJ45P85T87,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+713683_067-R_ORIGINATOR,713683,067-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+714174_038-R_ORIGINATOR,714174,038-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+714841_288-R_ORIGINATOR,714841,288-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+719797_321-R_ORIGINATOR,719797,321-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+719797_321-R_PVX,719797,321-R,PVX,PDX,0,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+719797_321-R_PVXHN7,719797,321-R,PVXHN7,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+719797_321-R_PXH,719797,321-R,PXH,PDX,0,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+719797_321-R_PXJGW3,719797,321-R,PXJGW3,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+719797_321-R_PXJGW4,719797,321-R,PXJGW4,PDX,1,Musculoskeletal,Malig. periph. nerve sheath tum.,10026667
+728994_017-R_ORIGINATOR,728994,017-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+735871_273-R_GU7Y57YM7,735871,273-R,GU7Y57YM7,PDX,2,Head and Neck,Nasopharyngeal carcinoma,10028786
+735871_273-R_GU8YF8X78,735871,273-R,GU8YF8X78,PDX,2,Head and Neck,Nasopharyngeal carcinoma,10028786
+735871_273-R_GU9,735871,273-R,GU9,PDX,0,Head and Neck,Nasopharyngeal carcinoma,10028786
+735871_273-R_GU9YA2X13,735871,273-R,GU9YA2X13,PDX,2,Head and Neck,Nasopharyngeal carcinoma,10028786
+735871_273-R_GV1Y89,735871,273-R,GV1Y89,PDX,1,Head and Neck,Nasopharyngeal carcinoma,10028786
+735871_273-R_ORIGINATOR,735871,273-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Nasopharyngeal carcinoma,10028786
+736525_025-R_ORIGINATOR,736525,025-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+736525_025-R_TJY,736525,025-R,TJY,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+736525_025-R_TJYJA8,736525,025-R,TJYJA8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+736525_025-R_TKGG45,736525,025-R,TKGG45,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+736525_025-R_TKGG46GW7,736525,025-R,TKGG46GW7,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+738386_334-R_J21KP0_RG-V63A86,738386,334-R,J21KP0_RG-V63A86,PDX,3,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+738386_334-R_J21KP0_RG-V65,738386,334-R,J21KP0_RG-V65,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+738386_334-R_J21KP4FU7_RG-CH0,738386,334-R,J21KP4FU7_RG-CH0,PDX,3,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+738386_334-R_J21KP4FU7_RG-CH0WN4,738386,334-R,J21KP4FU7_RG-CH0WN4,PDX,4,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+738386_334-R_J21KP4FU7_RG-CH0WN4G14,738386,334-R,J21KP4FU7_RG-CH0WN4G14,PDX,5,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+738386_334-R_J21KP4FU9,738386,334-R,J21KP4FU9,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+738386_334-R_ORIGINATOR,738386,334-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+738494_208-R2_KFPC77,738494,208-R2,KFPC77,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+738494_208-R2_KFT,738494,208-R2,KFT,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+738494_208-R2_KFTZ80,738494,208-R2,KFTZ80,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+738494_208-R2_KFTZ82M485,738494,208-R2,KFTZ82M485,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+738494_208-R2_KFTZ82M485K75,738494,208-R2,KFTZ82M485K75,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+738494_208-R2_KFTZ82M485K75KU1,738494,208-R2,KFTZ82M485K75KU1,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+738494_208-R2_ORIGINATOR,738494,208-R2,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+744664_207-M_ORIGINATOR,744664,207-M,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+744664_207-M_X9U,744664,207-M,X9U,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+744664_207-M_X9UA17,744664,207-M,X9UA17,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+744664_207-M_X9UA17A58,744664,207-M,X9UA17A58,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+744664_207-M_X9UA22A47,744664,207-M,X9UA22A47,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+744664_207-M_X9UA24,744664,207-M,X9UA24,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+746538_026-R_ORIGINATOR,746538,026-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746538_026-R_YR4,746538,026-R,YR4,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746538_026-R_YR4W41,746538,026-R,YR4W41,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746538_026-R_YR5XK1,746538,026-R,YR5XK1,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746538_026-R_YR5XK2,746538,026-R,YR5XK2,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746538_026-R_YR6XW8,746538,026-R,YR6XW8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746538_026-R_YR7XR3,746538,026-R,YR7XR3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746718_042-R_ORIGINATOR,746718,042-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,Transitional cell car. - uroth.,10044409
+746718_042-R_X20,746718,042-R,X20,PDX,0,Genitourinary,Transitional cell car. - uroth.,10044409
+746718_042-R_X21XL0,746718,042-R,X21XL0,PDX,1,Genitourinary,Transitional cell car. - uroth.,10044409
+746718_042-R_X22,746718,042-R,X22,PDX,0,Genitourinary,Transitional cell car. - uroth.,10044409
+746718_042-R_X23XL1,746718,042-R,X23XL1,PDX,1,Genitourinary,Transitional cell car. - uroth.,10044409
+746718_042-R_X24,746718,042-R,X24,PDX,0,Genitourinary,Transitional cell car. - uroth.,10044409
+746718_042-R_X24WG7,746718,042-R,X24WG7,PDX,1,Genitourinary,Transitional cell car. - uroth.,10044409
+746757_062-R_GAJ,746757,062-R,GAJ,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746757_062-R_GAJT36,746757,062-R,GAJT36,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746757_062-R_GAJT37QX3,746757,062-R,GAJT37QX3,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746757_062-R_GAJT37QX3NJ7,746757,062-R,GAJT37QX3NJ7,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746757_062-R_GAP,746757,062-R,GAP,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746757_062-R_GAPUY0,746757,062-R,GAPUY0,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746757_062-R_GAPUY3,746757,062-R,GAPUY3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746757_062-R_GAPUY3_DS,746757,062-R,GAPUY3_DS,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+746757_062-R_ORIGINATOR,746757,062-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+748385_122-R_ORIGINATOR,748385,122-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+748385_122-R_X1G,748385,122-R,X1G,PDX,0,Breast,Invasive breast carcinoma,10006190
+748385_122-R_X1GH06,748385,122-R,X1GH06,PDX,1,Breast,Invasive breast carcinoma,10006190
+748385_122-R_X1GH07,748385,122-R,X1GH07,PDX,1,Breast,Invasive breast carcinoma,10006190
+748385_122-R_X1GH07G96_AL-KU5,748385,122-R,X1GH07G96_AL-KU5,PDX,3,Breast,Invasive breast carcinoma,10006190
+748385_122-R_X1GH07G96_AL-KV2,748385,122-R,X1GH07G96_AL-KV2,PDX,3,Breast,Invasive breast carcinoma,10006190
+748385_122-R_X1GM092J94,748385,122-R,X1GM092J94,PDX,2,Breast,Invasive breast carcinoma,10006190
+755229_096-R_ORIGINATOR,755229,096-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+755483_174-R_HW0,755483,174-R,HW0,PDX,0,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+755483_174-R_HW0KH9,755483,174-R,HW0KH9,PDX,1,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+755483_174-R_HW0KJ1,755483,174-R,HW0KJ1,PDX,1,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+755483_174-R_HX0,755483,174-R,HX0,PDX,0,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+755483_174-R_ORIGINATOR,755483,174-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+756784_338-R_FU8,756784,338-R,FU8,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+756784_338-R_FU8DY0,756784,338-R,FU8DY0,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+756784_338-R_FU8DY2WR7,756784,338-R,FU8DY2WR7,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+756784_338-R_FU8DY4WU1,756784,338-R,FU8DY4WU1,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+756784_338-R_FV0WF4,756784,338-R,FV0WF4,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+756784_338-R_ORIGINATOR,756784,338-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+761936_265-R_KP8,761936,265-R,KP8,PDX,0,Musculoskeletal,Synovial sarcoma,10042866
+761936_265-R_KP8MR7,761936,265-R,KP8MR7,PDX,1,Musculoskeletal,Synovial sarcoma,10042866
+761936_265-R_KP8MR7_RG-VF5,761936,265-R,KP8MR7_RG-VF5,PDX,2,Musculoskeletal,Synovial sarcoma,10042866
+761936_265-R_KP8MR7_RG-VF5Y40,761936,265-R,KP8MR7_RG-VF5Y40,PDX,3,Musculoskeletal,Synovial sarcoma,10042866
+761936_265-R_KP8MR7_RG-VF5Y42,761936,265-R,KP8MR7_RG-VF5Y42,PDX,3,Musculoskeletal,Synovial sarcoma,10042866
+761936_265-R_KP8MR9,761936,265-R,KP8MR9,PDX,1,Musculoskeletal,Synovial sarcoma,10042866
+761936_265-R_ORIGINATOR,761936,265-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Synovial sarcoma,10042866
+762968_020-R_ORIGINATOR,762968,020-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+762968_020-R_YP8,762968,020-R,YP8,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+762968_020-R_YP8WE6,762968,020-R,YP8WE6,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+762968_020-R_YP9WU8,762968,020-R,YP9WU8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+762968_020-R_YQ0,762968,020-R,YQ0,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+762968_020-R_YQ0W10,762968,020-R,YQ0W10,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+762968_020-R_YQ1WF8,762968,020-R,YQ1WF8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+764511_343-R_ORIGINATOR,764511,343-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+764851_200-R_ORIGINATOR,764851,200-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+764851_200-R_W9J,764851,200-R,W9J,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+764851_200-R_W9JP20,764851,200-R,W9JP20,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+764851_200-R_W9JP24QJ0,764851,200-R,W9JP24QJ0,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+764851_200-R_W9JP26QK7,764851,200-R,W9JP26QK7,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+764851_200-R_W9JP29Q84,764851,200-R,W9JP29Q84,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+764851_200-R_W9NP10,764851,200-R,W9NP10,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+765638_272-R_AG1,765638,272-R,AG1,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+765638_272-R_AG2,765638,272-R,AG2,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+765638_272-R_AG2I09,765638,272-R,AG2I09,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+765638_272-R_AG3AX5,765638,272-R,AG3AX5,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+765638_272-R_AG4I01IB7,765638,272-R,AG4I01IB7,PDX,2,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+765638_272-R_ORIGINATOR,765638,272-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+767577_098-T_CF8X82WH1,767577,098-T,CF8X82WH1,PDX,2,Musculoskeletal,Chondrosarcoma,10008737
+767577_098-T_CF8X83,767577,098-T,CF8X83,PDX,1,Musculoskeletal,Chondrosarcoma,10008737
+767577_098-T_CF8X83WP9,767577,098-T,CF8X83WP9,PDX,2,Musculoskeletal,Chondrosarcoma,10008737
+767577_098-T_CF8X84WQ5,767577,098-T,CF8X84WQ5,PDX,2,Musculoskeletal,Chondrosarcoma,10008737
+767577_098-T_CF8X85,767577,098-T,CF8X85,PDX,1,Musculoskeletal,Chondrosarcoma,10008737
+767577_098-T_ORIGINATOR,767577,098-T,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Chondrosarcoma,10008737
+771514_170-T_ORIGINATOR,771514,170-T,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Salivary gland cancer,10039397
+772245_204-R_ORIGINATOR,772245,204-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+772611_094-R_ORIGINATOR,772611,094-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+772611_094-R_XCCM998G73,772611,094-R,XCCM998G73,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+772611_094-R_XCCM999,772611,094-R,XCCM999,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+772611_094-R_XCH,772611,094-R,XCH,PDX,0,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+772611_094-R_XCHF32,772611,094-R,XCHF32,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+772611_094-R_XCHF39,772611,094-R,XCHF39,PDX,1,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+772611_094-R_XCHF39H44,772611,094-R,XCHF39H44,PDX,2,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+777334_354-R2_Q8H,777334,354-R2,Q8H,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R2_Q8HTH5XJ2F31,777334,354-R2,Q8HTH5XJ2F31,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R2_Q8HTH6VH5XY7,777334,354-R2,Q8HTH6VH5XY7,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R2_Q8HTH6VH5_RG-YX1A46G20,777334,354-R2,Q8HTH6VH5_RG-YX1A46G20,PDX,5,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R2_Q8HTH6VH5_RG-YX4,777334,354-R2,Q8HTH6VH5_RG-YX4,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R2_Q8HTH6VH5_RG-YX4A96G63N09T08,777334,354-R2,Q8HTH6VH5_RG-YX4A96G63N09T08,PDX,7,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R3_ORIGINATOR,777334,354-R3,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R3_Q8N,777334,354-R3,Q8N,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R3_Q8NUU4YC3_RG-A80G92,777334,354-R3,Q8NUU4YC3_RG-A80G92,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R3_Q8NUU4YC3_RG-A80G93P45T74U79,777334,354-R3,Q8NUU4YC3_RG-A80G93P45T74U79,PDX,7,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R3_Q8NUU8,777334,354-R3,Q8NUU8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R3_Q8NUV0XT0,777334,354-R3,Q8NUV0XT0,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R3_Q8NUV0XT3CJ5A66E70,777334,354-R3,Q8NUV0XT3CJ5A66E70,PDX,5,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R5_Q8U,777334,354-R5,Q8U,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R5_Q8UPY6,777334,354-R5,Q8UPY6,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R5_Q8UPY6UF3WP3,777334,354-R5,Q8UPY6UF3WP3,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R5_Q8UPY6UF4,777334,354-R5,Q8UPY6UF4,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R5_Q8UPY7UC0,777334,354-R5,Q8UPY7UC0,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+777334_354-R5_Q8UQA1VK2,777334,354-R5,Q8UQA1VK2,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+778377_087-R_ORIGINATOR,778377,087-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+778377_087-R_U6N,778377,087-R,U6N,PDX,0,Gynecologic,Ovarian epithelial cancer,10033159
+778377_087-R_U6NXK6_RG-HN5N19P82V40,778377,087-R,U6NXK6_RG-HN5N19P82V40,PDX,5,Gynecologic,Ovarian epithelial cancer,10033159
+778377_087-R_U6NXK8AK3C40F46,778377,087-R,U6NXK8AK3C40F46,PDX,4,Gynecologic,Ovarian epithelial cancer,10033159
+778377_087-R_VHUVT5,778377,087-R,VHUVT5,PDX,1,Gynecologic,Ovarian epithelial cancer,10033159
+778377_087-R_VHUVT7YV1,778377,087-R,VHUVT7YV1,PDX,2,Gynecologic,Ovarian epithelial cancer,10033159
+782815_120-R_ORIGINATOR,782815,120-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+782815_120-R_W55,782815,120-R,W55,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+782815_120-R_W56V91,782815,120-R,W56V91,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+782815_120-R_W57,782815,120-R,W57,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+782815_120-R_W58V10,782815,120-R,W58V10,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+782815_120-R_W59V13,782815,120-R,W59V13,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+784116_028-R_ORIGINATOR,784116,028-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Laryngeal squamous cell carcinoma,10023843
+784581_064-R_K3Y,784581,064-R,K3Y,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+784581_064-R_K3YXY5,784581,064-R,K3YXY5,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+784581_064-R_K3YXY6,784581,064-R,K3YXY6,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+784581_064-R_K3YXY7YW6,784581,064-R,K3YXY7YW6,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+784581_064-R_K3YXY8AN5,784581,064-R,K3YXY8AN5,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+784581_064-R_ORIGINATOR,784581,064-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+784911_089-T_ORIGINATOR,784911,089-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+786545_187-R_ORIGINATOR,786545,187-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Liposarcoma,10024631
+786545_187-R_W8E,786545,187-R,W8E,PDX,0,Musculoskeletal,Liposarcoma,10024631
+786545_187-R_W8EA98,786545,187-R,W8EA98,PDX,1,Musculoskeletal,Liposarcoma,10024631
+786545_187-R_W8EA98M369,786545,187-R,W8EA98M369,PDX,2,Musculoskeletal,Liposarcoma,10024631
+786545_187-R_W8EA98M369NTAJ59,786545,187-R,W8EA98M369NTAJ59,PDX,4,Musculoskeletal,Liposarcoma,10024631
+786545_187-R_W8EA98M369NTE,786545,187-R,W8EA98M369NTE,PDX,3,Musculoskeletal,Liposarcoma,10024631
+787269_337-R_ORIGINATOR,787269,337-R,ORIGINATOR,Patient/Originator Specimen,-,Endocrine and Neuroendocrine,Merkel cell tumor,10029266
+787269_337-R_VA3U90,787269,337-R,VA3U90,PDX,1,Endocrine and Neuroendocrine,Merkel cell tumor,10029266
+787269_337-R_VA4UE7,787269,337-R,VA4UE7,PDX,1,Endocrine and Neuroendocrine,Merkel cell tumor,10029266
+787269_337-R_VC0,787269,337-R,VC0,PDX,0,Endocrine and Neuroendocrine,Merkel cell tumor,10029266
+787269_337-R_VC0U95,787269,337-R,VC0U95,PDX,1,Endocrine and Neuroendocrine,Merkel cell tumor,10029266
+787269_337-R_VC1U21,787269,337-R,VC1U21,PDX,1,Endocrine and Neuroendocrine,Merkel cell tumor,10029266
+791794_340-R_K7T,791794,340-R,K7T,PDX,0,Gynecologic,Squamous cervical cancer,10041848
+791794_340-R_K7TB57,791794,340-R,K7TB57,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+791794_340-R_K7TB58,791794,340-R,K7TB58,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+791794_340-R_K7TB59,791794,340-R,K7TB59,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+791794_340-R_K7UA26,791794,340-R,K7UA26,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+791794_340-R_K7UA30,791794,340-R,K7UA30,PDX,1,Gynecologic,Squamous cervical cancer,10041848
+791794_340-R_ORIGINATOR,791794,340-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Squamous cervical cancer,10041848
+812982_163-R_ORIGINATOR,812982,163-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,"Non-small cell lung cancer, NOS",10029514
+813916_060-R_ORIGINATOR,813916,060-R,ORIGINATOR,Patient/Originator Specimen,-,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+813916_060-R_U0Q,813916,060-R,U0Q,PDX,0,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+813916_060-R_U0QWP8N47,813916,060-R,U0QWP8N47,PDX,2,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+813916_060-R_U0QWP9,813916,060-R,U0QWP9,PDX,1,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+813916_060-R_U0QWQ2K01,813916,060-R,U0QWQ2K01,PDX,2,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+813916_060-R_U0QWQ4N94,813916,060-R,U0QWQ4N94,PDX,2,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+813916_060-R_U0QWQ6,813916,060-R,U0QWQ6,PDX,1,Endocrine and Neuroendocrine,"Neuroendocrine cancer, NOS",10057270
+814844_326-R_ORIGINATOR,814844,326-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+816435_061-R_ORIGINATOR,816435,061-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+817829_284-R_KXP,817829,284-R,KXP,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+817829_284-R_KXPPE6,817829,284-R,KXPPE6,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+817829_284-R_KXQPA1,817829,284-R,KXQPA1,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+817829_284-R_KXQPA4,817829,284-R,KXQPA4,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+817829_284-R_ORIGINATOR,817829,284-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+821394_179-R_ORIGINATOR,821394,179-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+821394_179-R_W3T,821394,179-R,W3T,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+821394_179-R_W3TPC6,821394,179-R,W3TPC6,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+821394_179-R_W3TPC7,821394,179-R,W3TPC7,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+821394_179-R_W3TPC8,821394,179-R,W3TPC8,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+821394_179-R_W3TPE3PW8,821394,179-R,W3TPE3PW8,PDX,2,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+821394_179-R_W3TPE3PW9,821394,179-R,W3TPE3PW9,PDX,2,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+823721_103-R_ORIGINATOR,823721,103-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+823721_103-R_VTG,823721,103-R,VTG,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+823721_103-R_VTGPX1,823721,103-R,VTGPX1,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+823721_103-R_VTH,823721,103-R,VTH,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+823721_103-R_VTJ,823721,103-R,VTJ,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+823721_103-R_VUUTK2,823721,103-R,VUUTK2,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+823721_103-R_VUVTF8,823721,103-R,VUVTF8,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+825966_067-R_ORIGINATOR,825966,067-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+825966_067-R_U7A,825966,067-R,U7A,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+825966_067-R_U7AN48,825966,067-R,U7AN48,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+825966_067-R_U7AN51,825966,067-R,U7AN51,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+825966_067-R_U7C,825966,067-R,U7C,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+825966_067-R_U7CP02,825966,067-R,U7CP02,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+825997_103-R_ORIGINATOR,825997,103-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+834989_109-R_G5Y,834989,109-R,G5Y,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+834989_109-R_G5YVH2,834989,109-R,G5YVH2,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+834989_109-R_G5YVH4,834989,109-R,G5YVH4,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+834989_109-R_G5YVH5,834989,109-R,G5YVH5,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+834989_109-R_ORIGINATOR,834989,109-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+835911_074-R_ORIGINATOR,835911,074-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+843126_344-R_ORIGINATOR,843126,344-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+848979_319-R_ORIGINATOR,848979,319-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+848979_319-R_PWQ,848979,319-R,PWQ,PDX,0,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+848979_319-R_PWQK31,848979,319-R,PWQK31,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+848979_319-R_PWQK40AG7,848979,319-R,PWQK40AG7,PDX,2,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+848979_319-R_PWQK42,848979,319-R,PWQK42,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+848979_319-R_PWQK44AG3,848979,319-R,PWQK44AG3,PDX,2,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+848979_319-R_PWTJ92,848979,319-R,PWTJ92,PDX,1,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+849917_123-R_E7W,849917,123-R,E7W,PDX,0,Hematologic/Blood,"NHL, NOS",10029593
+849917_123-R_E7WK31,849917,123-R,E7WK31,PDX,1,Hematologic/Blood,"NHL, NOS",10029593
+849917_123-R_E7WK31KT6,849917,123-R,E7WK31KT6,PDX,2,Hematologic/Blood,"NHL, NOS",10029593
+849917_123-R_E7WK31KT7,849917,123-R,E7WK31KT7,PDX,2,Hematologic/Blood,"NHL, NOS",10029593
+849917_123-R_E7WK31KT7N80,849917,123-R,E7WK31KT7N80,PDX,3,Hematologic/Blood,"NHL, NOS",10029593
+849917_123-R_E7WK31KT7N82,849917,123-R,E7WK31KT7N82,PDX,3,Hematologic/Blood,"NHL, NOS",10029593
+849917_123-R_ORIGINATOR,849917,123-R,ORIGINATOR,Patient/Originator Specimen,-,Hematologic/Blood,"NHL, NOS",10029593
+857933_349-R_ORIGINATOR,857933,349-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+862259_027-R_ORIGINATOR,862259,027-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+862795_172-R_ORIGINATOR,862795,172-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+862989_056-R_JJP,862989,056-R,JJP,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+862989_056-R_JJPY31YY9,862989,056-R,JJPY31YY9,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+862989_056-R_JJPY36,862989,056-R,JJPY36,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+862989_056-R_JJUXW5,862989,056-R,JJUXW5,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+862989_056-R_KKU,862989,056-R,KKU,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+862989_056-R_KKUXX7,862989,056-R,KKUXX7,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+862989_056-R_KKUXY1,862989,056-R,KKUXY1,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+862989_056-R_ORIGINATOR,862989,056-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - stomach,10001150
+863532_251-R_J3YFF2,863532,251-R,J3YFF2,PDX,1,Skin,Melanoma,10053571
+863532_251-R_J6U,863532,251-R,J6U,PDX,0,Skin,Melanoma,10053571
+863532_251-R_J6UF51FU0,863532,251-R,J6UF51FU0,PDX,2,Skin,Melanoma,10053571
+863532_251-R_J6VF89,863532,251-R,J6VF89,PDX,1,Skin,Melanoma,10053571
+863532_251-R_J7KFG5,863532,251-R,J7KFG5,PDX,1,Skin,Melanoma,10053571
+863532_251-R_ORIGINATOR,863532,251-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+863886_044-R_ORIGINATOR,863886,044-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+863886_044-R_TWTK09TG8,863886,044-R,TWTK09TG8,PDX,2,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+863886_044-R_TWTKQ9TH5,863886,044-R,TWTKQ9TH5,PDX,2,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+863886_044-R_TWTKQ9TH7WE7,863886,044-R,TWTKQ9TH7WE7,PDX,3,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+863886_044-R_TWTKQ9TH8WF1,863886,044-R,TWTKQ9TH8WF1,PDX,3,Musculoskeletal,Leiomyosarcoma - not uterine,10024193
+864244_320-R_ORIGINATOR,864244,320-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+866234_130-R_ORIGINATOR,866234,130-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+868679_213-R_ORIGINATOR,868679,213-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+868679_213-R_YCJ,868679,213-R,YCJ,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+868679_213-R_YCJWV4,868679,213-R,YCJWV4,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+868679_213-R_YCJWV8,868679,213-R,YCJWV8,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+868679_213-R_YCJWV9G77,868679,213-R,YCJWV9G77,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+868679_213-R_YCJWW1K30,868679,213-R,YCJWW1K30,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+868679_213-R_YCJWW2F59,868679,213-R,YCJWW2F59,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+868977_042-T_ORIGINATOR,868977,042-T,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+869496_051-R_ORIGINATOR,869496,051-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+869496_051-R_UCE,869496,051-R,UCE,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+869496_051-R_UCEA94_RG-K49KX8,869496,051-R,UCEA94_RG-K49KX8,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+869496_051-R_UCEA94_RG-K51,869496,051-R,UCEA94_RG-K51,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+869496_051-R_UCEA97,869496,051-R,UCEA97,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+869496_051-R_UCEA98,869496,051-R,UCEA98,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+869496_051-R_UCEB05,869496,051-R,UCEB05,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+873145_292-R_K0Q,873145,292-R,K0Q,PDX,0,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+873145_292-R_K0QKA7_RG-T26,873145,292-R,K0QKA7_RG-T26,PDX,2,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+873145_292-R_K0QKA7_RG-T26V12,873145,292-R,K0QKA7_RG-T26V12,PDX,3,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+873145_292-R_K0QKC0,873145,292-R,K0QKC0,PDX,1,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+873145_292-R_K0UJ96,873145,292-R,K0UJ96,PDX,1,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+873145_292-R_K0UJA2PK1V47XN3,873145,292-R,K0UJA2PK1V47XN3,PDX,4,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+873145_292-R_ORIGINATOR,873145,292-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+873942_020-R_CWQVB7,873942,020-R,CWQVB7,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+873942_020-R_CWQVC2,873942,020-R,CWQVC2,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+873942_020-R_CWT,873942,020-R,CWT,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+873942_020-R_CWTY27_RG-PG3,873942,020-R,CWTY27_RG-PG3,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+873942_020-R_CWTY29,873942,020-R,CWTY29,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+873942_020-R_ORIGINATOR,873942,020-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+874868_142-R_ORIGINATOR,874868,142-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,"H & N squamous cell car., NOS",10060121
+874868_142-R_XNPPA8,874868,142-R,XNPPA8,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+874868_142-R_XNQ,874868,142-R,XNQ,PDX,0,Head and Neck,"H & N squamous cell car., NOS",10060121
+874868_142-R_XNQKV7,874868,142-R,XNQKV7,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+874868_142-R_XNQKV7_RG-T32,874868,142-R,XNQKV7_RG-T32,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+874868_142-R_XNQKV9PJ8,874868,142-R,XNQKV9PJ8,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+875164_322-T_ORIGINATOR,875164,322-T,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+876135_273-R_ORIGINATOR,876135,273-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+876862_298-R_ORIGINATOR,876862,298-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+877282_077-R_M001,877282,077-R,M001,PDX,0,Head and Neck,"H & N squamous cell car., NOS",10060121
+877282_077-R_M001WP6,877282,077-R,M001WP6,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+877282_077-R_M002,877282,077-R,M002,PDX,0,Head and Neck,"H & N squamous cell car., NOS",10060121
+877282_077-R_M002WK7XE8,877282,077-R,M002WK7XE8,PDX,2,Head and Neck,"H & N squamous cell car., NOS",10060121
+877282_077-R_M002WN3,877282,077-R,M002WN3,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+877282_077-R_M003WT1,877282,077-R,M003WT1,PDX,1,Head and Neck,"H & N squamous cell car., NOS",10060121
+877282_077-R_ORIGINATOR,877282,077-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,"H & N squamous cell car., NOS",10060121
+879694_015-R_AL-N62_AL-X08,879694,015-R,AL-N62_AL-X08,PDX,1,Breast,Invasive breast carcinoma,10006190
+879694_015-R_AL-N63,879694,015-R,AL-N63,PDX,0,Breast,Invasive breast carcinoma,10006190
+879694_015-R_AL-N63_AL-X46_AL-Y46,879694,015-R,AL-N63_AL-X46_AL-Y46,PDX,2,Breast,Invasive breast carcinoma,10006190
+879694_015-R_AL-N65_AL-X01,879694,015-R,AL-N65_AL-X01,PDX,1,Breast,Invasive breast carcinoma,10006190
+879694_015-R_AL-N66,879694,015-R,AL-N66,PDX,0,Breast,Invasive breast carcinoma,10006190
+879694_015-R_AL-N66_AL-W91,879694,015-R,AL-N66_AL-W91,PDX,1,Breast,Invasive breast carcinoma,10006190
+879694_015-R_ORIGINATOR,879694,015-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+883617_216-R_ORIGINATOR,883617,216-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+884544_143-R_ORIGINATOR,884544,143-R,ORIGINATOR,PDX,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+884782_307-R_ORIGINATOR,884782,307-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+884782_307-R_PUE,884782,307-R,PUE,PDX,0,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+884782_307-R_PUUKY7,884782,307-R,PUUKY7,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+884782_307-R_PUUKY9,884782,307-R,PUUKY9,PDX,1,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+884782_307-R_PUUN00NE0,884782,307-R,PUUN00NE0,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+884782_307-R_PUUN00NE2,884782,307-R,PUUN00NE2,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+884782_307-R_PUUN00NE3,884782,307-R,PUUN00NE3,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+885512_296-R_ORIGINATOR,885512,296-R,ORIGINATOR,Patient/Originator Specimen,-,Breast,Invasive breast carcinoma,10006190
+886662_343-R_ORIGINATOR,886662,343-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+886662_343-R_Q2W,886662,343-R,Q2W,PDX,0,Gynecologic,Endometrioid endomet. adenocar.,10014735
+886662_343-R_Q2XNG7,886662,343-R,Q2XNG7,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+886662_343-R_Q2XNG7QA2TK7,886662,343-R,Q2XNG7QA2TK7,PDX,3,Gynecologic,Endometrioid endomet. adenocar.,10014735
+886662_343-R_Q2XNG7QA3_RG-QY7,886662,343-R,Q2XNG7QA3_RG-QY7,PDX,3,Gynecologic,Endometrioid endomet. adenocar.,10014735
+886662_343-R_Q2XNG7QA5,886662,343-R,Q2XNG7QA5,PDX,2,Gynecologic,Endometrioid endomet. adenocar.,10014735
+886662_343-R_Q2XNH0,886662,343-R,Q2XNH0,PDX,1,Gynecologic,Endometrioid endomet. adenocar.,10014735
+892531_110-R_ORIGINATOR,892531,110-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+899872_116-R_G9X,899872,116-R,G9X,PDX,0,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+899872_116-R_G9YY34,899872,116-R,G9YY34,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+899872_116-R_G9YY36,899872,116-R,G9YY36,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+899872_116-R_G9YY38_RG-KJ9,899872,116-R,G9YY38_RG-KJ9,PDX,2,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+899872_116-R_G9YY38_RG-KK0P82PX7U43,899872,116-R,G9YY38_RG-KK0P82PX7U43,PDX,5,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+899872_116-R_G9YY38_RG-KK0P82PX7U44V37,899872,116-R,G9YY38_RG-KK0P82PX7U44V37,PDX,6,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+899872_116-R_G9YY38_RG-KK0P82PY0,899872,116-R,G9YY38_RG-KK0P82PY0,PDX,4,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+899872_116-R_ORIGINATOR,899872,116-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+899932_113-R3_EF3,899932,113-R3,EF3,PDX,0,Skin,Melanoma,10053571
+899932_113-R3_EF3B10E84,899932,113-R3,EF3B10E84,PDX,2,Skin,Melanoma,10053571
+899932_113-R3_EF3B10E87,899932,113-R3,EF3B10E87,PDX,2,Skin,Melanoma,10053571
+899932_113-R3_EF3B13,899932,113-R3,EF3B13,PDX,1,Skin,Melanoma,10053571
+899932_113-R3_EF3B16,899932,113-R3,EF3B16,PDX,1,Skin,Melanoma,10053571
+899932_113-R3_EG2C88,899932,113-R3,EG2C88,PDX,1,Skin,Melanoma,10053571
+899932_113-R3_ORIGINATOR,899932,113-R3,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+899932_113-R4_EE3C48,899932,113-R4,EE3C48,PDX,1,Skin,Melanoma,10053571
+899932_113-R4_EH4,899932,113-R4,EH4,PDX,0,Skin,Melanoma,10053571
+899932_113-R4_EH4A68E36,899932,113-R4,EH4A68E36,PDX,2,Skin,Melanoma,10053571
+899932_113-R4_EH4A68E37,899932,113-R4,EH4A68E37,PDX,2,Skin,Melanoma,10053571
+899932_113-R4_EH4A69,899932,113-R4,EH4A69,PDX,1,Skin,Melanoma,10053571
+899932_113-R4_EH6,899932,113-R4,EH6,PDX,0,Skin,Melanoma,10053571
+899932_113-R4_ORIGINATOR,899932,113-R4,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+899932_113-R5_EH9,899932,113-R5,EH9,PDX,0,Skin,Melanoma,10053571
+899932_113-R5_EH9C92_RG-HN0,899932,113-R5,EH9C92_RG-HN0,PDX,2,Skin,Melanoma,10053571
+899932_113-R5_EH9C95F57,899932,113-R5,EH9C95F57,PDX,2,Skin,Melanoma,10053571
+899932_113-R5_EH9C95F59,899932,113-R5,EH9C95F59,PDX,2,Skin,Melanoma,10053571
+899932_113-R5_EH9C96,899932,113-R5,EH9C96,PDX,1,Skin,Melanoma,10053571
+899932_113-R5_EH9C99,899932,113-R5,EH9C99,PDX,1,Skin,Melanoma,10053571
+899932_113-R5_ORIGINATOR,899932,113-R5,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+899932_113-R6_EJ4,899932,113-R6,EJ4,PDX,0,Skin,Melanoma,10053571
+899932_113-R6_EJ4E30,899932,113-R6,EJ4E30,PDX,1,Skin,Melanoma,10053571
+899932_113-R6_EJ4E30G02,899932,113-R6,EJ4E30G02,PDX,2,Skin,Melanoma,10053571
+899932_113-R6_EJ4E30G02J31,899932,113-R6,EJ4E30G02J31,PDX,3,Skin,Melanoma,10053571
+899932_113-R6_EJ7C70_RG-HQX,899932,113-R6,EJ7C70_RG-HQX,PDX,2,Skin,Melanoma,10053571
+899932_113-R6_EJ7C72,899932,113-R6,EJ7C72,PDX,1,Skin,Melanoma,10053571
+899932_113-R6_ORIGINATOR,899932,113-R6,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+899932_113-R7_EJ8,899932,113-R7,EJ8,PDX,0,Skin,Melanoma,10053571
+899932_113-R7_EJ8A48E03,899932,113-R7,EJ8A48E03,PDX,2,Skin,Melanoma,10053571
+899932_113-R7_EJ8A51,899932,113-R7,EJ8A51,PDX,1,Skin,Melanoma,10053571
+899932_113-R7_EK2,899932,113-R7,EK2,PDX,0,Skin,Melanoma,10053571
+899932_113-R7_EK2C55F05,899932,113-R7,EK2C55F05,PDX,2,Skin,Melanoma,10053571
+899932_113-R7_EK2C57,899932,113-R7,EK2C57,PDX,1,Skin,Melanoma,10053571
+899932_113-R7_ORIGINATOR,899932,113-R7,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+899932_113-R8_EK8,899932,113-R8,EK8,PDX,0,Skin,Melanoma,10053571
+899932_113-R8_EK8E10F55,899932,113-R8,EK8E10F55,PDX,2,Skin,Melanoma,10053571
+899932_113-R8_EK8E11,899932,113-R8,EK8E11,PDX,1,Skin,Melanoma,10053571
+899932_113-R8_EK8E14_RG-NXN,899932,113-R8,EK8E14_RG-NXN,PDX,2,Skin,Melanoma,10053571
+899932_113-R8_EK8E14_RG-NXQ,899932,113-R8,EK8E14_RG-NXQ,PDX,2,Skin,Melanoma,10053571
+899932_113-R8_EK8E17,899932,113-R8,EK8E17,PDX,1,Skin,Melanoma,10053571
+899932_113-R8_ORIGINATOR,899932,113-R8,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+911461_104-R_G1XQY2,911461,104-R,G1XQY2,PDX,1,Gynecologic,"Uterine cancer, NOS",10046804
+911461_104-R_G1XQY4,911461,104-R,G1XQY4,PDX,1,Gynecologic,"Uterine cancer, NOS",10046804
+911461_104-R_G1XQY4_RG-T73,911461,104-R,G1XQY4_RG-T73,PDX,2,Gynecologic,"Uterine cancer, NOS",10046804
+911461_104-R_G1XQY4_RG-T74,911461,104-R,G1XQY4_RG-T74,PDX,2,Gynecologic,"Uterine cancer, NOS",10046804
+911461_104-R_G1XQY6,911461,104-R,G1XQY6,PDX,1,Gynecologic,"Uterine cancer, NOS",10046804
+911461_104-R_G1XQY6_RG-N49,911461,104-R,G1XQY6_RG-N49,PDX,2,Gynecologic,"Uterine cancer, NOS",10046804
+911461_104-R_ORIGINATOR,911461,104-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Uterine cancer, NOS",10046804
+913389_277-R_ORIGINATOR,913389,277-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+915372_287-R_ORIGINATOR,915372,287-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+918122_036-R_LR0,918122,036-R,LR0,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+918122_036-R_LR0MX6,918122,036-R,LR0MX6,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+918122_036-R_LR0MY1,918122,036-R,LR0MY1,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+918122_036-R_LR2,918122,036-R,LR2,PDX,0,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+918122_036-R_LR2MY8,918122,036-R,LR2MY8,PDX,1,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+918122_036-R_ORIGINATOR,918122,036-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Fibrosarcoma - not infantile,10016637
+919269_233-R1_GK6M371,919269,233-R1,GK6M371,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R1_GK7,919269,233-R1,GK7,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R1_GK7M218_RG-HOB,919269,233-R1,GK7M218_RG-HOB,PDX,3,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R1_GK7M220,919269,233-R1,GK7M220,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R1_GK9,919269,233-R1,GK9,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R1_GK9M665,919269,233-R1,GK9M665,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R2_GP2,919269,233-R2,GP2,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R2_GP2G49,919269,233-R2,GP2G49,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R2_GP2G51G90H01,919269,233-R2,GP2G51G90H01,PDX,3,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R2_GP2G51G91,919269,233-R2,GP2G51G91,PDX,2,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R2_GP2G51G91G96,919269,233-R2,GP2G51G91G96,PDX,3,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R3_GN8K75,919269,233-R3,GN8K75,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R3_GN9K84,919269,233-R3,GN9K84,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R3_GPX,919269,233-R3,GPX,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R3_GPXK94,919269,233-R3,GPXK94,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R3_GPXK98,919269,233-R3,GPXK98,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R3_ORIGINATOR,919269,233-R3,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R4_GN5,919269,233-R4,GN5,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R4_GN5M094FZ9,919269,233-R4,GN5M094FZ9,PDX,2,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R4_GN7,919269,233-R4,GN7,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R4_GN7G35,919269,233-R4,GN7G35,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R4_GP9G40,919269,233-R4,GP9G40,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R4_ORIGINATOR,919269,233-R4,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R5_GN4,919269,233-R5,GN4,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R5_GN4M393,919269,233-R5,GN4M393,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R5_GN4M394FZ1,919269,233-R5,GN4M394FZ1,PDX,2,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R5_GN4M396,919269,233-R5,GN4M396,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R5_GN4M397FZ7,919269,233-R5,GN4M397FZ7,PDX,2,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+919269_233-R5_GN4M397FZ7G70,919269,233-R5,GN4M397FZ7G70,PDX,3,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+922882_316-R_ORIGINATOR,922882,316-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Endometrioid endomet. adenocar.,10014735
+922993_354-T_ORIGINATOR,922993,354-T,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Serous endometrial adenocarcinoma,10033700
+926114_112-T_ORIGINATOR,926114,112-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+931267_113-T_E4Q,931267,113-T,E4Q,PDX,0,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+931267_113-T_E4QER2FC2,931267,113-T,E4QER2FC2,PDX,2,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+931267_113-T_E4QER3,931267,113-T,E4QER3,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+931267_113-T_E4QER4FG4,931267,113-T,E4QER4FG4,PDX,2,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+931267_113-T_E4QER5,931267,113-T,E4QER5,PDX,1,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+931267_113-T_ORIGINATOR,931267,113-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,"Colorectal cancer, NOS",10010029
+932174_294-R_ORIGINATOR,932174,294-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Pharyngeal squam. cell carcinoma,10034819
+933738_175-T_ORIGINATOR,933738,175-T,ORIGINATOR,Patient/Originator Specimen,-,Unknown Primary,Mesothelioma,10027410
+933738_175-T_W55,933738,175-T,W55,PDX,0,Unknown Primary,Mesothelioma,10027410
+933738_175-T_W55V32,933738,175-T,W55V32,PDX,1,Unknown Primary,Mesothelioma,10027410
+933738_175-T_W55VZ1TE6,933738,175-T,W55VZ1TE6,PDX,2,Unknown Primary,Mesothelioma,10027410
+933738_175-T_W55VZ2,933738,175-T,W55VZ2,PDX,1,Unknown Primary,Mesothelioma,10027410
+933738_175-T_W55VZ2TH4,933738,175-T,W55VZ2TH4,PDX,2,Unknown Primary,Mesothelioma,10027410
+936559_144-R_EXV,936559,144-R,EXV,PDX,0,Gynecologic,"Vulvar cancer, NOS",10047743
+936559_144-R_EXVFK5,936559,144-R,EXVFK5,PDX,1,Gynecologic,"Vulvar cancer, NOS",10047743
+936559_144-R_EXVFK9N65,936559,144-R,EXVFK9N65,PDX,2,Gynecologic,"Vulvar cancer, NOS",10047743
+936559_144-R_EXVFN0J26,936559,144-R,EXVFN0J26,PDX,2,Gynecologic,"Vulvar cancer, NOS",10047743
+936559_144-R_EXVFN0J26_RG-K95,936559,144-R,EXVFN0J26_RG-K95,PDX,3,Gynecologic,"Vulvar cancer, NOS",10047743
+936559_144-R_EXXFP7,936559,144-R,EXXFP7,PDX,1,Gynecologic,"Vulvar cancer, NOS",10047743
+936559_144-R_ORIGINATOR,936559,144-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Vulvar cancer, NOS",10047743
+936977_285-R_ORIGINATOR,936977,285-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+937885_149-R_ORIGINATOR,937885,149-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Ovarian epithelial cancer,10033159
+941728_121-R_NVC,941728,121-R,NVC,PDX,0,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+941728_121-R_NVCJV8,941728,121-R,NVCJV8,PDX,1,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+941728_121-R_NVCJW0,941728,121-R,NVCJW0,PDX,1,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+941728_121-R_NVCJW0KU0,941728,121-R,NVCJW0KU0,PDX,2,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+941728_121-R_NVGK03,941728,121-R,NVGK03,PDX,1,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+941728_121-R_NVGK03N50,941728,121-R,NVGK03N50,PDX,2,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+941728_121-R_ORIGINATOR,941728,121-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+942848_086-R_ORIGINATOR,942848,086-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+943836_067-R_ORIGINATOR,943836,067-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+943836_067-R_U4HC80G79,943836,067-R,U4HC80G79,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+943836_067-R_U4HC80_RG-RAT,943836,067-R,U4HC80_RG-RAT,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+943836_067-R_U4HC81G77,943836,067-R,U4HC81G77,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+943836_067-R_U4KC57FS8,943836,067-R,U4KC57FS8,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+943836_067-R_U4KC59M375,943836,067-R,U4KC59M375,PDX,2,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+944381_210-T_KA8,944381,210-T,KA8,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+944381_210-T_KA8MA7N48Q77,944381,210-T,KA8MA7N48Q77,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+944381_210-T_KA8MB0,944381,210-T,KA8MB0,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+944381_210-T_KA9,944381,210-T,KA9,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+944381_210-T_KA9F08LQ2,944381,210-T,KA9F08LQ2,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+944381_210-T_KA9FP2,944381,210-T,KA9FP2,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+944381_210-T_ORIGINATOR,944381,210-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+944545_341-R_AEE,944545,341-R,AEE,PDX,0,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+944545_341-R_AEEEFE,944545,341-R,AEEEFE,PDX,1,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+944545_341-R_AEEEFECU4F83,944545,341-R,AEEEFECU4F83,PDX,3,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+944545_341-R_AEEEFECU6,944545,341-R,AEEEFECU6,PDX,2,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+944545_341-R_AEEEGECT7,944545,341-R,AEEEGECT7,PDX,2,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+944545_341-R_ORIGINATOR,944545,341-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+946996_313-R_ORIGINATOR,946996,313-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Liposarcoma,10024631
+947675_243-R_J4V,947675,243-R,J4V,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947675_243-R_J4VVH8_RG-HEWN62,947675,243-R,J4VVH8_RG-HEWN62,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947675_243-R_J4VVH9AK6C65J55,947675,243-R,J4VVH9AK6C65J55,PDX,4,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947675_243-R_J4VVJ2AU0,947675,243-R,J4VVJ2AU0,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947675_243-R_J4VVJ2AU2B05,947675,243-R,J4VVJ2AU2B05,PDX,3,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947675_243-R_ORIGINATOR,947675,243-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947725_317-R_AKP,947725,317-R,AKP,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+947725_317-R_AKPPC3,947725,317-R,AKPPC3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+947725_317-R_AKPPC4,947725,317-R,AKPPC4,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+947725_317-R_AQ1,947725,317-R,AQ1,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+947725_317-R_AQ2PD3,947725,317-R,AQ2PD3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+947725_317-R_AQ2PD6,947725,317-R,AQ2PD6,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+947725_317-R_ORIGINATOR,947725,317-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - rectum,10038045
+947758_054-R_ORIGINATOR,947758,054-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947758_054-R_UCKB52,947758,054-R,UCKB52,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947758_054-R_UCP,947758,054-R,UCP,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947758_054-R_UCPB18,947758,054-R,UCPB18,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947758_054-R_UCPB22,947758,054-R,UCPB22,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947758_054-R_UCPB25,947758,054-R,UCPB25,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+947758_054-R_UCPB27,947758,054-R,UCPB27,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+949626_316-R_ORIGINATOR,949626,316-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+949626_316-R_Y74,949626,316-R,Y74,PDX,0,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+949626_316-R_Y74WH6,949626,316-R,Y74WH6,PDX,1,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+949626_316-R_Y74WH7_RG-N53,949626,316-R,Y74WH7_RG-N53,PDX,2,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+949626_316-R_Y74WH7_RG-N53KN2,949626,316-R,Y74WH7_RG-N53KN2,PDX,3,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+949626_316-R_Y74WH7_RG-N53KN4TT7,949626,316-R,Y74WH7_RG-N53KN4TT7,PDX,4,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+949626_316-R_Y75W12,949626,316-R,Y75W12,PDX,1,Musculoskeletal,"Soft tissue neoplasm, NOS",10061271
+949697_356-R_ORIGINATOR,949697,356-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Basal cell carcinoma,10004146
+952719_076-R_ORIGINATOR,952719,076-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+952719_076-R_P53,952719,076-R,P53,PDX,0,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+952719_076-R_P53PH1,952719,076-R,P53PH1,PDX,1,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+952719_076-R_P54PH6,952719,076-R,P54PH6,PDX,1,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+952719_076-R_P56,952719,076-R,P56,PDX,0,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+952719_076-R_P56PH7,952719,076-R,P56PH7,PDX,1,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+952719_076-R_P57,952719,076-R,P57,PDX,0,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+952719_076-R_P57PE2,952719,076-R,P57PE2,PDX,1,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+957923_259-R_J5NVW9,957923,259-R,J5NVW9,PDX,1,Musculoskeletal,Synovial sarcoma,10042866
+957923_259-R_J5PPP9AC8,957923,259-R,J5PPP9AC8,PDX,2,Musculoskeletal,Synovial sarcoma,10042866
+957923_259-R_J5PPQ0_RG-AV4,957923,259-R,J5PPQ0_RG-AV4,PDX,2,Musculoskeletal,Synovial sarcoma,10042866
+957923_259-R_J5PPQ1,957923,259-R,J5PPQ1,PDX,1,Musculoskeletal,Synovial sarcoma,10042866
+957923_259-R_J5PPQ4WG2,957923,259-R,J5PPQ4WG2,PDX,2,Musculoskeletal,Synovial sarcoma,10042866
+957923_259-R_ORIGINATOR,957923,259-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Synovial sarcoma,10042866
+959411_043-R_ORIGINATOR,959411,043-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+961994_133-R_EQ0F53,961994,133-R,EQ0F53,PDX,1,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+961994_133-R_EQ1,961994,133-R,EQ1,PDX,0,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+961994_133-R_EQ2,961994,133-R,EQ2,PDX,0,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+961994_133-R_EQ2F03FC8,961994,133-R,EQ2F03FC8,PDX,2,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+961994_133-R_EQ2F03FC9,961994,133-R,EQ2F03FC9,PDX,2,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+961994_133-R_EQ2F06FB1,961994,133-R,EQ2F06FB1,PDX,2,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+961994_133-R_ORIGINATOR,961994,133-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+965255_017-R_ORIGINATOR,965255,017-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"RCC, clear cell adenocarcinoma",10009251
+967376_340-R_ORIGINATOR,967376,340-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+969956_357-R_ORIGINATOR,969956,357-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+975524_054-R_ORIGINATOR,975524,054-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Non-Rhabdo. soft tissue sarcoma,10039494
+979852_250-R_J3QNN8,979852,250-R,J3QNN8,PDX,1,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+979852_250-R_J3T,979852,250-R,J3T,PDX,0,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+979852_250-R_J3TNF1PJ2,979852,250-R,J3TNF1PJ2,PDX,2,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+979852_250-R_J3TNF1PJ4,979852,250-R,J3TNF1PJ4,PDX,2,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+979852_250-R_J3TNF1PJ4QJ8,979852,250-R,J3TNF1PJ4QJ8,PDX,3,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+979852_250-R_ORIGINATOR,979852,250-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,"Rhabdomyosarcoma, NOS",10039024
+981166_024-R_ORIGINATOR,981166,024-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,"H & N squamous cell car., NOS",10060121
+981375_231-R_ORIGINATOR,981375,231-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+981439_253-R_ORIGINATOR,981439,253-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+983718_287-R_ORIGINATOR,983718,287-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+983718_287-R_PJY,983718,287-R,PJY,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+983718_287-R_PJYLY3,983718,287-R,PJYLY3,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+983718_287-R_QJC,983718,287-R,QJC,PDX,0,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+983718_287-R_QJCLY1,983718,287-R,QJCLY1,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+983718_287-R_QJCLY2,983718,287-R,QJCLY2,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+983718_287-R_QJCLY4,983718,287-R,QJCLY4,PDX,1,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+987419_145-R_HJN,987419,145-R,HJN,PDX,0,Gynecologic,"Female reprod. system cancer, NOS",10016411
+987419_145-R_HJNCH7,987419,145-R,HJNCH7,PDX,1,Gynecologic,"Female reprod. system cancer, NOS",10016411
+987419_145-R_HJNCJ0J28,987419,145-R,HJNCJ0J28,PDX,2,Gynecologic,"Female reprod. system cancer, NOS",10016411
+987419_145-R_HPNCC1_RG-E95,987419,145-R,HPNCC1_RG-E95,PDX,2,Gynecologic,"Female reprod. system cancer, NOS",10016411
+987419_145-R_HPNCC1_RG-E95T08,987419,145-R,HPNCC1_RG-E95T08,PDX,3,Gynecologic,"Female reprod. system cancer, NOS",10016411
+987419_145-R_HPNCC6,987419,145-R,HPNCC6,PDX,1,Gynecologic,"Female reprod. system cancer, NOS",10016411
+987419_145-R_ORIGINATOR,987419,145-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,"Female reprod. system cancer, NOS",10016411
+987651_099-R_ORIGINATOR,987651,099-R,ORIGINATOR,Patient/Originator Specimen,-,Head and Neck,Lip/oral cavity squam. cell car.,10024534
+988467_305-R_CAT,988467,305-R,CAT,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+988467_305-R_CATP38T73,988467,305-R,CATP38T73,PDX,2,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+988467_305-R_CATP40,988467,305-R,CATP40,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+988467_305-R_CATP41U02,988467,305-R,CATP41U02,PDX,2,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+988467_305-R_CAU,988467,305-R,CAU,PDX,0,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+988467_305-R_CAUQ91,988467,305-R,CAUQ91,PDX,1,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+988467_305-R_ORIGINATOR,988467,305-R,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Malignant fibrous histiocytoma,10025556
+989133_093-R_ORIGINATOR,989133,093-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,"Lung cancer, NOS",10025065
+989133_093-R_VATN97,989133,093-R,VATN97,PDX,1,Respiratory/Thoracic,"Lung cancer, NOS",10025065
+989133_093-R_VATN99,989133,093-R,VATN99,PDX,1,Respiratory/Thoracic,"Lung cancer, NOS",10025065
+989133_093-R_VATNA3P21,989133,093-R,VATNA3P21,PDX,2,Respiratory/Thoracic,"Lung cancer, NOS",10025065
+989133_093-R_VAU,989133,093-R,VAU,PDX,0,Respiratory/Thoracic,"Lung cancer, NOS",10025065
+989133_093-R_VAUNQ7,989133,093-R,VAUNQ7,PDX,1,Respiratory/Thoracic,"Lung cancer, NOS",10025065
+989133_093-R_VAUNQ8,989133,093-R,VAUNQ8,PDX,1,Respiratory/Thoracic,"Lung cancer, NOS",10025065
+992656_260-R_HW0,992656,260-R,HW0,PDX,0,Skin,Melanoma,10053571
+992656_260-R_HW0WH0,992656,260-R,HW0WH0,PDX,1,Skin,Melanoma,10053571
+992656_260-R_HW1WE1,992656,260-R,HW1WE1,PDX,1,Skin,Melanoma,10053571
+992656_260-R_HW2,992656,260-R,HW2,PDX,0,Skin,Melanoma,10053571
+992656_260-R_HW2WF9,992656,260-R,HW2WF9,PDX,1,Skin,Melanoma,10053571
+992656_260-R_HW4,992656,260-R,HW4,PDX,0,Skin,Melanoma,10053571
+992656_260-R_HW4WJ5,992656,260-R,HW4WJ5,PDX,1,Skin,Melanoma,10053571
+992656_260-R_ORIGINATOR,992656,260-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+993429_296-R_K7C,993429,296-R,K7C,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+993429_296-R_K8CQ08,993429,296-R,K8CQ08,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+993429_296-R_KAHP71,993429,296-R,KAHP71,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+993429_296-R_KAX,993429,296-R,KAX,PDX,0,Gynecologic,Carcinosarcoma of the uterus,10007508
+993429_296-R_KAXP81,993429,296-R,KAXP81,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+993429_296-R_KAXP83,993429,296-R,KAXP83,PDX,1,Gynecologic,Carcinosarcoma of the uterus,10007508
+993429_296-R_ORIGINATOR,993429,296-R,ORIGINATOR,Patient/Originator Specimen,-,Gynecologic,Carcinosarcoma of the uterus,10007508
+994434_217-R_AK3,994434,217-R,AK3,PDX,0,Musculoskeletal,Ewing sarcoma/Peripheral PNET,10015563
+995276_142-R_CQEY44,995276,142-R,CQEY44,PDX,1,Skin,Melanoma,10053571
+995276_142-R_CQF,995276,142-R,CQF,PDX,0,Skin,Melanoma,10053571
+995276_142-R_CQG,995276,142-R,CQG,PDX,0,Skin,Melanoma,10053571
+995276_142-R_CQGXU4,995276,142-R,CQGXU4,PDX,1,Skin,Melanoma,10053571
+995276_142-R_JQT,995276,142-R,JQT,PDX,0,Skin,Melanoma,10053571
+995276_142-R_ORIGINATOR,995276,142-R,ORIGINATOR,Patient/Originator Specimen,-,Skin,Melanoma,10053571
+996942_123-R_ORIGINATOR,996942,123-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+997537_175-T_ORIGINATOR,997537,175-T,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+997726_040-R_ORIGINATOR,997726,040-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+997726_040-R_X15W14,997726,040-R,X15W14,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+997726_040-R_X16,997726,040-R,X16,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+997726_040-R_X16XX3,997726,040-R,X16XX3,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+997726_040-R_X17,997726,040-R,X17,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+997726_040-R_X18,997726,040-R,X18,PDX,0,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+997726_040-R_X18W29,997726,040-R,X18W29,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+997726_040-R_X19XY3,997726,040-R,X19XY3,PDX,1,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+BL0293_F563_ORIGINATOR,BL0293,F563,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+BL0382_F1232_ORIGINATOR,BL0382,F1232,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+BL0479_F1894_ORIGINATOR,BL0479,F1894,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,Transitional cell car. - uroth.,10044409
+CN0330_F216_ORIGINATOR,CN0330,F216,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+CN0375_F725_ORIGINATOR,CN0375,F725,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+K00052_001-T_ORIGINATOR,K00052,001-T,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+K12877_001-R_ORIGINATOR,K12877,001-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+K20847_001-R_ORIGINATOR,K20847,001-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - colon,10009951
+K32475_227-T_K0Q,K32475,227-T,K0Q,PDX,2,Digestive/Gastrointestinal,Adenocarcinoma - small intest.,10041115
+K64430_001-R_ORIGINATOR,K64430,001-R,ORIGINATOR,Patient/Originator Specimen,-,Digestive/Gastrointestinal,Adenocarcinoma - pancreas,10052747
+K66101_001-R_ORIGINATOR,K66101,001-R,ORIGINATOR,Patient/Originator Specimen,-,Genitourinary,"Urothelial/bladder cancer, NOS",10018192
+K83135_075-R1_C8X,K83135,075-R1,C8X,PDX,4,Genitourinary,"Prostate cancer, NOS",10036910
+K86415_001-R_ORIGINATOR,K86415,001-R,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+LG0481_F231_ORIGINATOR,LG0481,F231,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+LG0551_F552_ORIGINATOR,LG0551,F552,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Squamous cell lung carcinoma,10025126
+LG0567_F671_ORIGINATOR,LG0567,F671,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+LG0703_F948_ORIGINATOR,LG0703,F948,ORIGINATOR,Patient/Originator Specimen,-,Respiratory/Thoracic,Lung adenocarcinoma,10025032
+SA0426_F1136_ORIGINATOR,SA0426,F1136,ORIGINATOR,Patient/Originator Specimen,-,Musculoskeletal,Leiomyosarcoma - uterus,10046799

@@ -36,6 +36,7 @@ have_pdx <- pdmr_table |>
 pdmr_paired_primary <- pdmr_table |>
   dplyr::filter(`Patient ID` %in% intersect(have_primary, have_pdx))
 
+write_csv(pdmr_paired_primary, file = "data/raw/paired_samples.csv")
 
 if(!dir.exists(outdir)){
   dir.create(outdir, recursive = TRUE)
