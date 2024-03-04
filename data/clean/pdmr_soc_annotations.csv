@@ -1,0 +1,101 @@
+sample,Patient ID,Specimen ID,Sample ID,PDM Type,Passage,DiagnosisSubtype,OncoTreeCode,PathologyAvail,OncoKB Cancer GenePanel Data Avail,Whole ExomeSequence Avail,RNASeqAvail
+112475_105R_G2U,112475,105R,G2U,PDX,0,Papillary Serous Cystadenocarcinoma,SOC,Yes,Yes,Yes,Yes
+112475_105R_G2UN84PK7,112475,105R,G2UN84PK7,PDX,2,Papillary Serous Cystadenocarcinoma,SOC,Yes,Yes,Yes,Yes
+112475_105R_G2UN84PK7VP2,112475,105R,G2UN84PK7VP2,PDX,3,Papillary Serous Cystadenocarcinoma,SOC,Yes,Yes,Yes,Yes
+112475_105R_G2UN84PK7VP5Y62,112475,105R,G2UN84PK7VP5Y62,PDX,4,Papillary Serous Cystadenocarcinoma,SOC,Yes,Yes,Yes,Yes
+112475_105R_G2UN86,112475,105R,G2UN86,PDX,1,Papillary Serous Cystadenocarcinoma,SOC,Yes,Yes,Yes,Yes
+112475_105R_G2WP48PG4,112475,105R,G2WP48PG4,PDX,2,Papillary Serous Cystadenocarcinoma,SOC,Yes,Yes,Yes,Yes
+147741_163M_J2PDC,147741,163M,J2PDC,PDC: Mixed Tumor Culture,NA,serous carcinoma with clear cell features,SOC,NA,NA,NA,NA
+147741_163M_V1organoid,147741,163M,V1organoid,Organoid Culture,NA,serous carcinoma with clear cell features,SOC,NA,NA,NA,NA
+147741_172M_J3PDC,147741,172M,J3PDC,PDC: Mixed Tumor Culture,NA,serous carcinoma with clear cell features,SOC,NA,NA,NA,NA
+147741_172M_KP9,147741,172M,KP9,PDX,0,serous carcinoma with clear cell features,SOC,Yes,Yes,Yes,Yes
+147741_172M_KP9N91U73,147741,172M,KP9N91U73,PDX,2,serous carcinoma with clear cell features,SOC,Yes,Yes,Yes,Yes
+147741_172M_KP9N94,147741,172M,KP9N94,PDX,1,serous carcinoma with clear cell features,SOC,Yes,Yes,Yes,Yes
+147741_172M_KP9N96,147741,172M,KP9N96,PDX,1,serous carcinoma with clear cell features,SOC,Yes,Yes,Yes,Yes
+147741_172M_KP9N96U57,147741,172M,KP9N96U57,PDX,2,serous carcinoma with clear cell features,SOC,Yes,Yes,Yes,Yes
+147741_172M_KQ1P41,147741,172M,KQ1P41,PDX,1,serous carcinoma with clear cell features,SOC,Yes,Yes,Yes,Yes
+147741_172M_V2organoid,147741,172M,V2organoid,Organoid Culture,NA,serous carcinoma with clear cell features,SOC,NA,NA,NA,NA
+147741_191M_V3organoid,147741,191M,V3organoid,Organoid Culture,NA,serous carcinoma with clear cell features,SOC,NA,NA,NA,NA
+176358_292R_KYJ,176358,292R,KYJ,PDX,0,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+176358_292R_KYJQ01W57,176358,292R,KYJQ01W57,PDX,2,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+176358_292R_KYJQ01W57A62,176358,292R,KYJQ01W57A62,PDX,3,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+176358_292R_KYJQ03,176358,292R,KYJQ03,PDX,1,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+176358_292R_KYKJ24JC6,176358,292R,KYKJ24JC6,PDX,2,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+176358_292R_KYKJ24JC8_RGPQ5,176358,292R,KYKJ24JC8_RGPQ5,PDX,3,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+249533_200R_ORIGINATOR,249533,200R,ORIGINATOR,Patient/Originator Specimen,-,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+249533_200R_V1organoid,249533,200R,V1organoid,Organoid Culture,NA,serous carcinoma,HGSOC,NA,NA,NA,NA
+249533_200R_W8XA20A10F04J04,249533,200R,W8XA20A10F04J04,PDX,4,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+249533_200R_W8XA20A13E82,249533,200R,W8XA20A13E82,PDX,3,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+249533_200R_W8XA21A03E19,249533,200R,W8XA21A03E19,PDX,3,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+249533_200R_YAJ,249533,200R,YAJ,PDX,0,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+249662_076R_GGV,249662,076R,GGV,PDX,0,serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+249662_076R_GGVP72NP4,249662,076R,GGVP72NP4,PDX,2,serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+249662_076R_GGVP72NP5U81,249662,076R,GGVP72NP5U81,PDX,3,serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+249662_076R_GGVP72NP5U85XP4,249662,076R,GGVP72NP5U85XP4,PDX,4,serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+249662_076R_GGVP72NP5U85XQ0C05,249662,076R,GGVP72NP5U85XQ0C05,PDX,5,serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+249662_076R_ORIGINATOR,249662,076R,ORIGINATOR,Patient/Originator Specimen,-,serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+259776_179R_F2W,259776,179R,F2W,PDX,0,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+259776_179R_F2WA94E52,259776,179R,F2WA94E52,PDX,2,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+259776_179R_F2WA94E55G34H95,259776,179R,F2WA94E55G34H95,PDX,4,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+259776_179R_F2WA95G03J07,259776,179R,F2WA95G03J07,PDX,3,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+259776_179R_F2WA95G04,259776,179R,F2WA95G04,PDX,2,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+259776_179R_F2WA96F29,259776,179R,F2WA96F29,PDX,2,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+259776_179R_V1organoid,259776,179R,V1organoid,Organoid Culture,NA,Serous Carcinoma,SOC,NA,NA,NA,NA
+382168_346R_J1PDC,382168,346R,J1PDC,PDC: Mixed Tumor Culture,NA,serous papillary borderline tumor,SOC,NA,NA,NA,NA
+575813_281R1_F10X41A33,575813,281R1,F10X41A33,PDX,2,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R1_F10X43,575813,281R1,F10X43,PDX,1,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R1_F11,575813,281R1,F11,PDX,0,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R1_F12,575813,281R1,F12,PDX,0,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R1_F12X98,575813,281R1,F12X98,PDX,1,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R1_F1348AF32,575813,281R1,F1348AF32,PDX,2,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R1_ORIGINATOR,575813,281R1,ORIGINATOR,Patient/Originator Specimen,-,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R2_F04Y05,575813,281R2,F04Y05,PDX,1,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R2_F06,575813,281R2,F06,PDX,0,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R2_F06X70A38,575813,281R2,F06X70A38,PDX,2,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R2_F07Y67,575813,281R2,F07Y67,PDX,1,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R2_F08,575813,281R2,F08,PDX,0,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R2_F08X94_RGC15J30,575813,281R2,F08X94_RGC15J30,PDX,3,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R2_J2PDC,575813,281R2,J2PDC,PDC: Mixed Tumor Culture,NA,"papillary, serous carcinoma",HGSOC,NA,NA,NA,NA
+575813_281R2_ORIGINATOR,575813,281R2,ORIGINATOR,Patient/Originator Specimen,-,"papillary, serous carcinoma",HGSOC,Yes,Yes,Yes,Yes
+575813_281R2_V1organoid,575813,281R2,V1organoid,Organoid Culture,NA,"papillary, serous carcinoma",HGSOC,NA,NA,NA,NA
+627137_287R_ORIGINATOR,627137,287R,ORIGINATOR,Patient/Originator Specimen,-,papillary serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+627137_287R_PJGN54A76,627137,287R,PJGN54A76,PDX,2,papillary serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+627137_287R_PJGN54A76AU6E04,627137,287R,PJGN54A76AU6E04,PDX,4,papillary serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+627137_287R_PJGN54A76AU7,627137,287R,PJGN54A76AU7,PDX,3,papillary serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+627137_287R_PJGN57,627137,287R,PJGN57,PDX,1,papillary serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+627137_287R_PJT,627137,287R,PJT,PDX,0,papillary serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+627137_287R_PJTAJ0,627137,287R,PJTAJ0,PDX,1,papillary serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+655913_031T_J1PDC,655913,031T,J1PDC,PDC: Mixed Tumor Culture,NA,serous carcinoma,HGSOC,NA,NA,NA,NA
+655913_031T_T6NJN0,655913,031T,T6NJN0,PDX,1,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+655913_031T_T6NJN1P51,655913,031T,T6NJN1P51,PDX,2,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+655913_031T_T6NJN2_RGT14UQ7WT8,655913,031T,T6NJN2_RGT14UQ7WT8,PDX,4,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+655913_031T_T6NJN2_RGT14UQ7WT8YG4,655913,031T,T6NJN2_RGT14UQ7WT8YG4,PDX,5,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+655913_031T_T6NJN2_RGT14UT0,655913,031T,T6NJN2_RGT14UT0,PDX,3,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+655913_031T_T6NJN4PP2,655913,031T,T6NJN4PP2,PDX,2,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+655913_031T_V2organoid,655913,031T,V2organoid,Organoid Culture,NA,serous carcinoma,HGSOC,NA,NA,NA,NA
+761449_099R_AP3,761449,099R,AP3,PDX,0,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+761449_099R_AP3C60J00,761449,099R,AP3C60J00,PDX,2,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+761449_099R_AP3C60J01P43,761449,099R,AP3C60J01P43,PDX,3,serous carcinoma,SOC,No,Yes,Yes,Yes
+761449_099R_AP3C60J02N89,761449,099R,AP3C60J02N89,PDX,3,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+761449_099R_AP3C62,761449,099R,AP3C62,PDX,1,serous carcinoma,SOC,Yes,Yes,Yes,Yes
+761449_099R_J1PDC,761449,099R,J1PDC,PDC: Mixed Tumor Culture,NA,serous carcinoma,SOC,NA,NA,NA,NA
+761449_099R_V1organoid,761449,099R,V1organoid,Organoid Culture,NA,serous carcinoma,SOC,NA,NA,NA,NA
+764289_091R_GVJTH8,764289,091R,GVJTH8,PDX,1,Serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+764289_091R_GVK,764289,091R,GVK,PDX,0,Serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+764289_091R_GVKTJ2_RGN04KT4,764289,091R,GVKTJ2_RGN04KT4,PDX,3,Serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+764289_091R_GVKTJ2_RGN04KT4U34,764289,091R,GVKTJ2_RGN04KT4U34,PDX,4,Serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+764289_091R_ORIGINATOR,764289,091R,ORIGINATOR,Patient/Originator Specimen,-,Serous adenocarcinoma,HGSOC,Yes,Yes,Yes,Yes
+835911_074R_UNCM565J84,835911,074R,UNCM565J84,PDX,2,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+835911_074R_UNCM565J86_RGNA8U63,835911,074R,UNCM565J86_RGNA8U63,PDX,4,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+835911_074R_UNCM565J87,835911,074R,UNCM565J87,PDX,2,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+835911_074R_UNCM567M696NF6,835911,074R,UNCM567M696NF6,PDX,3,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+835911_074R_UNCM567M698,835911,074R,UNCM567M698,PDX,2,Serous Carcinoma,SOC,Yes,Yes,Yes,Yes
+937885_149R_E0W,937885,149R,E0W,PDX,0,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+937885_149R_E0WFQ3Q20,937885,149R,E0WFQ3Q20,PDX,2,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+937885_149R_E0WFQ3Q24,937885,149R,E0WFQ3Q24,PDX,2,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+937885_149R_E0WFQ4K42,937885,149R,E0WFQ4K42,PDX,2,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+937885_149R_E0WFQ4K49,937885,149R,E0WFQ4K49,PDX,2,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+937885_149R_E0WFQ4K52,937885,149R,E0WFQ4K52,PDX,2,serous carcinoma,HGSOC,Yes,Yes,Yes,Yes
+937885_149R_V1organoid,937885,149R,V1organoid,Organoid Culture,NA,serous carcinoma,HGSOC,NA,NA,NA,NA
+942526_266R_J1PDC,942526,266R,J1PDC,PDC: Mixed Tumor Culture,NA,serous adenocarcinoma,HGSOC,NA,NA,NA,NA
+942526_266R_V2organoid,942526,266R,V2organoid,Organoid Culture,NA,serous adenocarcinoma,HGSOC,NA,NA,NA,NA
